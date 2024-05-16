@@ -1,0 +1,979 @@
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\065253.jpg:A young, attractive man with 5 o'clock shadow, blurry image, brown hair, narrow eyes, and a pointy nose.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\050642.jpg:A young attractive man with bushy eyebrows and a slightly open mouth, without a beard.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\070358.jpg:A young person with arched eyebrows, bags under eyes, big lips, big nose, black hair, high cheekbones, mouth slightly open, no beard, smiling, wearing lipstick, wearing a necktie.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\051817.jpg:a smiling blond-haired man with high cheekbones and arched eyebrows, without a beard and with bags under his eyes
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\154018.jpg:A blond-haired woman with bangs and heavy makeup, high cheekbones, an oval face, a pointy nose, and a slight smile, wearing lipstick and with her mouth slightly open, with no beard and straight hair.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\183409.jpg:A chubby man with high cheekbones, slightly open mouth, and no beard.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\012889.jpg:An attractive blond woman with arched eyebrows, big lips, heavy makeup, high cheekbones, no beard, smiling, wavy hair, wearing earrings, and wearing lipstick.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\151297.jpg:A young male with 5 o'clock shadow, arched eyebrows, black hair, and a pointy nose.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\039536.jpg:A young woman with arched eyebrows, attractive, bags under eyes, big lips, big nose, heavy makeup, high cheekbones, mouth slightly open, no beard, smiling, wavy hair, wearing lipstick, wearing a necklace.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\002316.jpg:A young woman with bags under her eyes, bangs, a big nose, high cheekbones, a slightly open mouth, no beard, a smiling expression, straight hair, and wearing lipstick.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\171220.jpg:A young man with brown hair, bushy eyebrows, a slightly open mouth, no beard, an oval face, a smiling expression, and wavy hair.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\091678.jpg:A young male with black hair, bushy eyebrows, high cheekbones, and narrow eyes, slightly opening his mouth, and smiling, without a beard, with 5 o'clock shadow, bags under his eyes, big lips, a big nose.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\153064.jpg:A young, attractive man with a goatee, high cheekbones, and a receding hairline, smiling and with his mouth slightly open. He has an oval face and straight hair.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\030978.jpg:A man with a 5 o'clock shadow, big nose, gray hair, no beard, pointy nose, straight hair, and wearing a necktie.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\187538.jpg:A young woman with attractive features and high cheekbones, arched eyebrows, big lips, bushy eyebrows, heavy makeup, slightly open mouth, no beard, smiling, wavy hair, and wearing lipstick.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\137902.jpg:A young person with a slightly open mouth and no beard.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\050857.jpg:A young woman with arched eyebrows, attractive, blond hair, heavy makeup, no beard, pointy nose, wearing lipstick.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\160944.jpg:A smiling male with bags under his eyes, bangs, brown hair, high cheekbones, a slightly open mouth, narrow eyes, and no beard.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\066779.jpg:A young woman with arched eyebrows, big lips, high cheekbones, a slightly open mouth, no beard, a pointy nose, a receding hairline, and a smiling face, wearing lipstick.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\137260.jpg:A young woman with arched eyebrows, attractive, big lips, heavy makeup, high cheekbones, mouth slightly open, no beard, oval face, pointy nose, smiling, wearing earrings, wearing lipstick.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\120824.jpg:A young woman with attractive features, black hair, heavy makeup, high cheekbones, slightly open mouth, narrow eyes, no beard, oval face, pointy nose, smiling, wearing lipstick, and bags under her eyes.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\084116.jpg:A man with 5 o'clock shadow, bangs, a big nose, brown hair, eyeglasses, a mustache, and wavy hair.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\020197.jpg:An attractive young woman with big lips, big nose, blond hair, heavy makeup, high cheekbones, slightly open mouth, no beard, smiling, straight hair, wearing earrings, wearing lipstick, wearing necklace.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\036403.jpg:A attractive young woman with brown hair, heavy makeup, high cheekbones, a slightly open mouth, no beard, a smile, wavy hair, and wearing lipstick.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\124936.jpg:A young woman with blond hair, heavy makeup, high cheekbones, a slightly open mouth, no beard, an oval face, a pointy nose, a smiling expression, wavy hair, wearing earrings, wearing lipstick.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\038848.jpg:A chubby bald man with bags under his eyes, blurry image quality, and no beard.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\135338.jpg:A young man with blurry, bushy eyebrows, high cheekbones, slightly open mouth, no beard, wavy hair.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\060828.jpg:A young person with blond hair, heavy makeup, no beard, and wearing lipstick.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\189411.jpg:A young attractive person with arched eyebrows, a slightly open mouth, no beard, a pointy nose, wavy hair, and wearing lipstick.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\144376.jpg:A young attractive woman with arched eyebrows, big lips, brown hair, heavy makeup, no beard, oval face, pointy nose, smiling, straight hair, wearing lipstick.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\048065.jpg:A young woman with arched eyebrows, attractive, brown hair, bushy eyebrows, heavy makeup, high cheekbones, mouth slightly open, no beard, oval face, pointy nose, rosy cheeks, smiling, wavy hair, wearing earrings, wearing lipstick, wearing necklace.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\141047.jpg:An attractive woman with blond hair, bangs, heavy makeup, high cheekbones, a slightly open mouth, no beard, an oval face, a pointy nose, a smiling expression, wavy hair, wearing earrings, and wearing lipstick.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\178490.jpg:A young woman with arched eyebrows, attractive features, black hair, heavy makeup, high cheekbones, oval face, smiling, wearing earrings and lipstick. She has no beard.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\008143.jpg:A young person with bangs, big lips, a big nose, black hair, heavy makeup, no beard, wavy hair, and wearing lipstick.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\194149.jpg:a male without beard
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\188510.jpg:A young, attractive man with bushy eyebrows, high cheekbones, an oval face, and a smile.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\043777.jpg:An attractive young male with a 5 o'clock shadow, arched eyebrows, bags under eyes, a big nose, bushy eyebrows, a slightly open mouth, and straight hair, is smiling and has no beard.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\038012.jpg:A chubby man with a big nose, bushy eyebrows, a double chin, wearing eyeglasses, a goatee, and a mustache, and with a receding hairline.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\005968.jpg:A smiling male with bags under his eyes and a big nose, slightly open mouth, not wearing a beard, and wearing a hat.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\066302.jpg:An attractive blonde-haired woman with heavy makeup, high cheekbones, no beard, and a smile on her face. She has wavy hair, is wearing lipstick, and has a necklace on.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\117550.jpg:A young man with black hair, bushy eyebrows, and straight hair, without a beard.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\114652.jpg:A young woman with attractive brown hair, heavy makeup, slightly open mouth, no beard, wavy hair, and wearing lipstick.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\031543.jpg:A young woman with arched eyebrows, attractive, heavy makeup, slightly open mouth, no beard, wearing lipstick.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\169707.jpg:A young male with brown hair, bangs, bushy eyebrows, high cheekbones, an oval face, a slightly open mouth, and a smiling expression, without a beard.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\185491.jpg:A young, attractive man with big lips, black hair, bushy eyebrows, no beard, and a straight hair, smiling.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\153338.jpg:A young attractive person with big lips, black hair, heavy makeup, a slightly open mouth, no beard, an oval face, a receding hairline, a smiling expression, and wearing lipstick.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\148004.jpg:A woman with arched eyebrows, bags under her eyes, bangs, blond hair, high cheekbones, rosy cheeks, wavy hair, wearing earrings, wearing lipstick, and wearing a necklace.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\161308.jpg:A young, attractive person with brown hair, high cheekbones, and wearing lipstick, but without a beard.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\101823.jpg:A young woman with attractive features, wearing lipstick, with brown hair and bangs, high cheekbones, a pointy nose, and an oval face, smiling and with heavy makeup.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\099276.jpg:A young woman with arched eyebrows, attractive features, bags under her eyes, brown hair, heavy makeup, high cheekbones, slightly open mouth, no beard, rosy cheeks, smiling, wavy hair, wearing lipstick.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\151870.jpg:A bald, smiling man without a beard.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\114010.jpg:A bald man with arched eyebrows, bags under his eyes, a big nose, a chubby face, a double chin, wearing eyeglasses and a necktie, with high cheekbones, a slightly open mouth, a mustache, and a smiling expression.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\127982.jpg:A young person with arched eyebrows, attractive features, big lips, brown hair, heavy makeup, no beard, a pointy nose, and wearing lipstick.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\143537.jpg:a young person with brown hair, wavy hair, and wearing lipstick, without a beard
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\082469.jpg:A young man with an oval face, big nose, wearing a necktie, and smiling, but without a beard.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\157040.jpg:A young person with arched eyebrows, heavy makeup, slightly open mouth, narrow eyes, no beard, pointy nose, receding hairline, wearing earrings.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\200311.jpg:A young male with 5 o'clock shadow, attractive features, bags under eyes, big lips, big nose, black hair, slightly open mouth, mustache, pointy nose, sideburns, straight hair, wavy hair.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\006076.jpg:An attractive young woman with blond hair, high cheekbones, no beard, pointy nose, smiling, wavy hair, and wearing lipstick. She has bags under her eyes.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\006905.jpg:a young man without a beard
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\106038.jpg:A young woman with heavy makeup, high cheekbones, slightly open mouth, narrow eyes, no beard, receding hairline, smiling, wavy hair, wearing lipstick.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\074752.jpg:A young attractive woman with brown hair and heavy makeup, she has an oval face with a pointy nose and wavy hair, and she is wearing lipstick. She does not have a beard.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\192267.jpg:A young man with black hair and no beard.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\044002.jpg:A young man with bushy eyebrows, wearing glasses and a hat, with his mouth slightly open and no beard.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\096780.jpg:A young woman with arched eyebrows, attractive features, heavy makeup, high cheekbones, a slightly open mouth, no beard, an oval face, a pointy nose, rosy cheeks, a smiling expression, wavy hair, wearing earrings, wearing lipstick.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\163826.jpg:A young male with arched eyebrows, bags under eyes, a big nose, black hair, bushy eyebrows, high cheekbones, a slightly open mouth, no beard, smiling, and straight hair.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\075847.jpg:A young woman with heavy makeup, slightly open mouth, no beard, oval face, wavy hair, and wearing lipstick.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\156478.jpg:A young, attractive man with 5 o'clock shadow, black hair, bushy eyebrows, a goatee, a pointy nose, and sideburns.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\110842.jpg:a person with blurry image, slightly open mouth, narrow eyes, no beard, oval face, and wearing a hat.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\005020.jpg:A bald, big-nosed, chubby man with eyeglasses and a slightly open mouth, without a beard and with a receding hairline, with straight hair, wearing a necktie.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\076060.jpg:An attractive woman with big lips, blond hair, heavy makeup, high cheekbones, a slightly open mouth, no beard, a pointy nose, smiling, wavy hair, wearing lipstick, and wearing a necklace.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\108243.jpg:A young woman with arched eyebrows, big lips, brown hair, heavy makeup, high cheekbones, slightly open mouth, no beard, wavy hair, and wearing lipstick.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\090671.jpg:a young and attractive man with a 5 o'clock shadow, big lips, wearing eyeglasses, having a goatee and mustache, with sideburns and straight hair.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\105309.jpg:A young woman with attractive features, brown hair, heavy makeup, high cheekbones, no beard, a pointy nose, wavy hair, wearing earrings and lipstick.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\147912.jpg:A young, attractive man with arched eyebrows, bags under his eyes, big lips, a big nose, black hair, bushy eyebrows, high cheekbones, a slightly open mouth, narrow eyes, no beard, and a smiling face.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\182432.jpg:A young woman with bangs, black hair, heavy makeup, no beard, a pointy nose, straight hair, and wearing lipstick.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\111207.jpg:A smiling man with high cheekbones, bushy eyebrows, wavy brown hair, a big nose, and bags under his eyes, his mouth slightly open, and no beard.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\194058.jpg:A young, attractive woman with arched eyebrows, big lips, a big nose, bushy eyebrows, heavy makeup, slightly open mouth, narrow eyes, no beard, straight hair, wearing earrings, wearing lipstick, wearing a necklace.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\007419.jpg:A young man with a 5 o'clock shadow, bags under his eyes, bangs, big lips, a big nose, black hair, bushy eyebrows, high cheekbones, narrow eyes, no beard, smiling, wavy hair, wearing a necktie.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\035651.jpg:A young woman with attractive features, brown hair, bushy eyebrows, heavy makeup, high cheekbones, no beard, wavy hair, and wearing lipstick.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\145757.jpg:A young woman with big lips, black hair, heavy makeup, narrow eyes, no beard, wavy hair, and wearing lipstick.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\070446.jpg:A person with bangs, blond hair, high cheekbones, a slightly open mouth, no beard, straight hair, wearing lipstick, and wearing a necklace.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\075750.jpg:A young man with black hair, bangs, straight hair and no beard.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\100900.jpg:A young woman with attractive features, big lips, heavy makeup, narrow eyes, no beard, a pointy nose, wavy hair, and wearing lipstick.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\024734.jpg:A young person with bangs, black hair, high cheekbones and no beard.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\031590.jpg:A young male with 5 o'clock shadow, attractive features, bags under his eyes, black hair, bushy eyebrows, high cheekbones, wavy hair, wearing a necktie.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\025907.jpg:An attractive woman with brown hair, heavy makeup, high cheekbones, slightly open mouth, no beard, wavy hair, wearing earrings, and wearing lipstick.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\119719.jpg:A smiling male with high cheekbones, gray hair, bags under eyes, a receding hairline, a slightly open mouth, and no beard.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\162679.jpg:A person with big lips, big nose, black hair, no beard, receding hairline, and wearing earrings.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\176194.jpg:A young male with brown hair and a goatee, wearing a necktie and having sideburns and straight hair, and having a 5 o'clock shadow.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\111421.jpg:A young woman with arched eyebrows, big lips, a big nose, brown hair, heavy makeup, high cheekbones, a slightly open mouth, no beard, an oval face, wavy hair, wearing earrings and lipstick.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\171562.jpg:An attractive young man with big lips, wearing eyeglasses and without a beard.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\011675.jpg:An attractive young blond woman with arched eyebrows, straight hair, wearing lipstick and no beard.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\001671.jpg:A young woman with brown hair and high cheekbones is smiling with her mouth slightly open. She has an oval face and is not wearing a beard. She is also wearing earrings.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\184052.jpg:A young and attractive woman with arched eyebrows, blond hair, heavy makeup, slightly open mouth, no beard, smiling, and wavy hair, wearing lipstick and bangs.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\196004.jpg:A young man with bushy eyebrows and high cheekbones, smiling with his mouth slightly open and no beard.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\010259.jpg:A young woman with arched eyebrows, attractive, blond hair, heavy makeup, high cheekbones, slightly open mouth, narrow eyes, no beard, rosy cheeks, smiling, wavy hair, wearing lipstick, wearing a necklace.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\188995.jpg:An attractive young man with brown wavy hair and no beard.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\026004.jpg:a young man with a 5 o'clock shadow, big nose, wearing eyeglasses and a hat.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\059442.jpg:A man with a goatee, narrow eyes, sideburns, and wavy hair.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\118036.jpg:A male with a big nose and no beard.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\075121.jpg:A young attractive man with black hair, high cheekbones, no beard, smiling, and bags under his eyes.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\053760.jpg:A young man with brown hair, high cheekbones, narrow eyes, sideburns, and bags under his eyes, smiling.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\122965.jpg:A young woman with attractive features, black hair, heavy makeup, high cheekbones, a slightly open mouth, an oval face, a smiling expression, wearing earrings and lipstick.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\106756.jpg:A young, attractive man with a 5 o'clock shadow, black hair, bushy eyebrows, and an oval face, wearing bangs and having straight hair. He does not have a beard.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\017191.jpg:A young male with a 5 o'clock shadow, bags under eyes, a bald head, big lips, a big nose, black hair, a goatee, a slightly open mouth, an oval face, and a receding hairline.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\190642.jpg:A male with eyeglasses and a slightly open mouth, but no beard.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\018231.jpg:A young man with a 5 o'clock shadow, big nose, black hair, bushy eyebrows, goatee, slightly open mouth, and a smiling expression.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\174705.jpg:A young woman with arched eyebrows, attractive blond hair, heavy makeup, high cheekbones, an oval face, a smile, and wearing lipstick, a necklace.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\201872.jpg:A young woman with attractive features, blond hair, heavy makeup, high cheekbones, a slightly open mouth, no beard, an oval face, rosy cheeks, a smiling expression, wavy hair, wearing earrings and lipstick.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\199907.jpg:A young attractive woman with black hair, heavy makeup, high cheekbones, rosy cheeks, and a slightly open mouth. She has big lips, a pointy nose, and is smiling. She has straight hair and is wearing earrings and lipstick. She does not have a beard.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\087509.jpg:A young woman with attractive features, brown hair, heavy makeup, high cheekbones, an oval face, straight hair, and wearing lipstick, with her mouth slightly open and no beard.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\185051.jpg:A young man with big lips and no beard.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\197633.jpg:A young man with a 5 o'clock shadow, big lips, big nose, black hair, bushy eyebrows, goatee, narrow eyes, oval face, receding hairline, smiling, wearing earrings.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\008274.jpg:A chubby young man with bags under his eyes, big lips, a big nose, a double chin, a goatee, high cheekbones, slightly opened mouth, sideburns, and a youthful appearance.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\096275.jpg:A young person with brown hair, high cheekbones, a slightly open mouth, no beard, and a smiling face wearing lipstick.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\109797.jpg:A young woman with arched eyebrows, attractive features, brown hair, heavy makeup, high cheekbones, a slightly open mouth, no beard, an oval face, rosy cheeks, a smiling expression, wavy hair, wearing earrings, wearing lipstick, wearing a necklace.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\062592.jpg:A smiling man with 5 o'clock shadow, attractive, bags under eyes, bangs, big nose, brown hair, goatee, high cheekbones, wearing a necktie.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\123368.jpg:A young man with black hair, a goatee, an oval face, and straight hair.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\144217.jpg:A young, attractive man with bags under his eyes, an oval face, and a smiling expression. He does not have a beard.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\088356.jpg:A young person with arched eyebrows, big lips, blond hair, no beard, a pointy nose, and wearing lipstick.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\172076.jpg:a young man with bags under eyes, a big and pointy nose, a receding hairline and no beard.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\006295.jpg:A young woman with attractive features, heavy makeup, high cheekbones, an oval face, a pointy nose, straight hair, wearing earrings and lipstick, and her mouth slightly open. She has no beard.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\147105.jpg:A young woman with high cheekbones, wearing heavy makeup and lipstick, smiling with her mouth slightly open, and having an oval face. She does not have a beard.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\052518.jpg:A young male with high cheekbones, bags under his eyes, an oval face, a slightly open mouth, no beard, straight hair, and a smiling expression.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\182374.jpg:A young, bald man with big lips, a big nose, blurry vision, and wearing eyeglasses.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\049202.jpg:a young person with big lips, black hair, no beard and a pointy nose.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\135890.jpg:A young, attractive woman with arched eyebrows, brown hair, heavy makeup, no beard, a smile, wavy hair, and wearing lipstick.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\145269.jpg:A young man with a slightly open mouth, no beard, a pointy nose, sideburns, and wearing a hat.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\150042.jpg:A chubby, bald man with bags under his eyes, a big nose, a double chin, wearing eyeglasses and a necktie, with gray hair, slightly open mouth, narrow eyes, pale skin, a receding hairline, and smiling.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\087027.jpg:An attractive young man with bags under his eyes, blond hair, heavy makeup, no beard, oval face, pale skin, and a receding hairline.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\195046.jpg:A young person with blond hair, narrow eyes, no beard, straight hair, wavy hair, and wearing lipstick.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\016783.jpg:A young attractive person with slightly open mouth, pale skin, no beard, and wearing lipstick.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\185048.jpg:A young attractive woman with arched eyebrows, bangs, heavy makeup, high cheekbones, a slightly open mouth, no beard, a pointy nose, rosy cheeks, a smiling expression, wavy hair, wearing earrings, wearing lipstick.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\077755.jpg:A young woman with arched eyebrows, attractive appearance, brown hair, heavy makeup, slightly open mouth, no beard, pointy nose, and wearing lipstick.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\011503.jpg:An attractive young woman with big lips and blond hair, wearing heavy makeup and lipstick. She has high cheekbones and a slightly open mouth, and is smiling. She has wavy hair and no beard.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\196459.jpg:A young woman with bags under her eyes, big lips, a big nose, black hair, high cheekbones, a slightly open mouth, no beard, smiling, wavy hair, and wearing lipstick.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\087787.jpg:A young man with high cheekbones, a big nose, narrow eyes, and bags under his eyes, is smiling with his mouth slightly open. He is attractive, has no beard, and is wearing a hat.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\034640.jpg:An attractive young woman with brown hair, heavy makeup, no beard, an oval face, wavy hair, and wearing lipstick.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\093544.jpg:A young attractive woman with brown hair, heavy makeup, high cheekbones, an oval face, a pointy nose, and a smile, wearing lipstick and no beard.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\151487.jpg:A smiling woman with blond hair, high cheekbones, a pointy nose, and wearing earrings and lipstick.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\118495.jpg:A young woman with arched eyebrows, attractive features, bags under her eyes, big lips, heavy makeup, high cheekbones, slightly open mouth, no beard, pointy nose, rosy cheeks, smiling, wearing lipstick, wearing a necklace.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\110038.jpg:A young attractive woman with blond hair, heavy makeup, high cheekbones, a slightly open mouth, no beard, an oval face, a pointy nose, a smiling expression, straight hair, wearing lipstick.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\179374.jpg:A young man with bags under his eyes and no beard.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\186780.jpg:A young attractive person with brown hair, bushy eyebrows, no beard, straight hair, wearing lipstick and a necklace.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\148125.jpg:A bald man with bags under his eyes, a big nose, gray hair, a slightly open mouth, and a receding hairline, wearing a necktie and having straight hair, and without a beard.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\191560.jpg:A smiling man with high cheekbones, a pointy nose, and no beard.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\051794.jpg:A young woman with bangs, heavy makeup, high cheekbones, a slightly open mouth, no beard, a pointy nose, straight hair, wearing earrings and lipstick.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\097000.jpg:A young, attractive woman with blond hair, high cheekbones, heavy makeup, and a slight smile, and her mouth slightly open. She has no beard.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\046971.jpg:A young person with pale skin, a pointy nose, and no beard.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\148543.jpg:A young woman with attractive features, brown hair, heavy makeup, high cheekbones, no beard, oval face, pointy nose, rosy cheeks, a smile, wearing earrings, and wearing lipstick.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\197804.jpg:A young, attractive, smiling man with a 5 o'clock shadow, high cheekbones, a slightly open mouth, and no beard, who is bald.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\067621.jpg:A bald man with gray hair, a slightly open mouth, no beard, and a receding hairline.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\091758.jpg:A young woman with arched eyebrows, attractive and blond hair, heavy makeup, high cheekbones, no beard, smiling, wavy hair, wearing lipstick.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\113781.jpg:A young woman with attractive features and big lips, brown hair, heavy makeup and high cheekbones. She has her mouth slightly open and narrow eyes. She has no beard and has wavy hair. She is wearing earrings and lipstick.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\117324.jpg:A young person with bangs and blonde hair, wearing a necklace, and without a beard, in a blurry image.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\101930.jpg:A young woman with arched eyebrows and attractive features is smiling with her mouth slightly open. She has big lips, brown wavy hair, high cheekbones, and a pointy nose. She is not wearing a beard and is wearing lipstick.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\055392.jpg:An attractive young man with blond hair, bangs, a straight nose, and a smile, and he is clean-shaven.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\020045.jpg:A male with arched eyebrows, bags under eyes, a big nose, bushy eyebrows, a double chin, high cheekbones, a slightly open mouth, no beard, a receding hairline, and a smiling expression.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\146468.jpg:A young attractive blond-haired woman with arched eyebrows, big lips, heavy makeup, high cheekbones, narrow eyes, no beard, straight hair, and wearing lipstick.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\090330.jpg:An attractive young person with high cheekbones, bags under their eyes, a slightly open mouth, narrow eyes, no beard, and a smiling expression.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\164977.jpg:A young man with arched eyebrows, attractive, brown hair, no beard, oval face, and a pointy nose.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\143197.jpg:A young man with a slightly open mouth, narrow eyes, no beard, and a smiling face.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\021640.jpg:A young smiling male with 5 o'clock shadow, bags under eyes, a big nose, bushy eyebrows, high cheekbones, slightly open mouth, narrow eyes.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\187089.jpg:A chubby man with high cheekbones and a receding hairline, wearing a necktie, has bags under his eyes and a double chin. He has gray hair and is smiling with his mouth slightly open. He has straight hair and no beard.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\072690.jpg:A young man with big lips, big nose, black hair, high cheekbones, slightly open mouth, and a smiling expression.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\033458.jpg:A young woman with arched eyebrows, attractive appearance, brown hair, heavy makeup, high cheekbones, slightly open mouth, narrow eyes, no beard, pointy nose, smiling expression, wavy hair, wearing lipstick.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\146290.jpg:A smiling person with blond hair, chubby cheeks, a double chin, gray hair, high cheekbones, slightly open mouth, no beard, oval face, and wavy hair, wearing lipstick.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\064018.jpg:A person with bags under their eyes, bangs, no beard, an oval face, and wearing earrings.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\172321.jpg:An attractive young woman with arched eyebrows, heavy makeup, high cheekbones, slightly open mouth, and wavy hair, wearing lipstick and smiling.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\089686.jpg:A young woman with arched eyebrows, attractive, blond hair, heavy makeup, high cheekbones, no beard, oval face, pointy nose, rosy cheeks, smiling, wavy hair, wearing earrings, wearing lipstick, wearing necklace.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\010293.jpg:A young attractive woman with arched eyebrows, big lips, blond hair, heavy makeup, high cheekbones, a slightly open mouth, no beard, an oval face, a pointy nose, a smile, straight hair, wavy hair, wearing lipstick, wearing a necklace.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\029560.jpg:A young woman with attractive features, brown hair, heavy makeup, high cheekbones, no beard, an oval face, smiling, and wearing lipstick.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\002487.jpg:A young woman with oval face, smiling, wearing lipstick and having no bangs.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\033428.jpg:A young man with arched eyebrows, attractive features, brown hair, high cheekbones, no beard, an oval face, and straight hair.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\112773.jpg:A young, attractive man with an oval face, straight hair, and wearing a necktie, who does not have a beard.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\170444.jpg:A young man with attractive brown hair and a slightly open mouth, without a beard.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\041237.jpg:A bald, big-nosed, chubby man with a double chin and oval face, who is also male and has a receding hairline and no beard.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\171800.jpg:An attractive young person with blond hair, heavy makeup, no beard, a pointy nose, and wavy hair, wearing lipstick.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\183863.jpg:A young woman with attractive features, black hair, heavy makeup, high cheekbones, a slightly open mouth, no beard, an oval face, a pointy nose, a smiling expression, wavy hair, wearing earrings and lipstick.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\035733.jpg:A young male with a big nose and black hair, without a beard.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\021414.jpg:A young man with arched eyebrows, big lips, a goatee, high cheekbones, a mustache, an oval face, and a receding hairline.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\180001.jpg:A young, attractive man with brown hair, bushy eyebrows, and wavy hair. He does not have a beard.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\156166.jpg:A young person with blond hair, high cheekbones, a slightly open mouth, and a smiling expression.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\125616.jpg:A young woman with arched eyebrows, big lips, blond hair, heavy makeup, no beard, a pointy nose, and wearing lipstick.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\126975.jpg:A young woman with arched eyebrows, attractive features, big lips, black hair, heavy makeup, high cheekbones, slightly open mouth, narrow eyes, no beard, smiling, straight hair, wearing lipstick, wearing a necklace.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\183140.jpg:A young attractive woman with black hair, heavy makeup, high cheekbones, a slightly open mouth, no beard, an oval face, a pointy nose, a smiling expression, and wearing lipstick.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\025832.jpg:A young woman with attractive features, brown hair, bushy eyebrows, heavy makeup, high cheekbones, slightly open mouth, no beard, smiling, wavy hair, wearing lipstick.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\145614.jpg:A young, smiling man with eyeglasses, sideburns, and wavy hair.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\137449.jpg:A young, smiling man with 5 o'clock shadow, bags under his eyes, a big nose, blond hair, narrow eyes, and wavy hair. He has an oval face and no beard.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\057124.jpg:A young attractive person with bangs, brown hair, no beard, and wearing lipstick.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\020265.jpg:A young person with big lips, blurry image, heavy makeup, high cheekbones, slightly open mouth, no beard, smiling, and wavy hair.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\155764.jpg:A young woman with high cheekbones, wearing earrings and lipstick, smiling with rosy cheeks and attractive features, with wavy hair and an oval face, and no beard.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\172359.jpg:A young attractive blond-haired woman with an oval face, smiling and wearing lipstick.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\120691.jpg:A young attractive woman with brown hair, wearing lipstick, with high cheekbones and wavy hair, smiling and with a slightly open mouth, and a pointy nose, no beard, and heavy makeup.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\113842.jpg:A young male with a 5 o'clock shadow and an oval face.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\118968.jpg:An attractive young person with high cheekbones, a slightly open mouth, no beard, a smiling expression, wearing lipstick and a necklace.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\003419.jpg:A man with black hair, high cheekbones, a slightly open mouth, a mustache, and straight hair.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\067469.jpg:A young woman with attractive arched eyebrows, brown wavy hair, high cheekbones, and a pointy nose, wearing heavy makeup and lipstick. She has an oval face, is smiling, and is wearing earrings. She has no beard.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\000848.jpg:a young male with black hair, bushy eyebrows, and straight hair, without a beard.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\036235.jpg:A young woman with arched eyebrows, attractive, big lips, black hair, heavy makeup, high cheekbones, slightly open mouth, no beard, rosy cheeks, smiling, wearing lipstick.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\100153.jpg:A young male with 5 o'clock shadow, attractive features, black hair, bushy eyebrows, sideburns, wavy hair.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\054991.jpg:A male with a 5 o'clock shadow, attractive, pointy nose, and receding hairline.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\040088.jpg:A young woman with arched eyebrows, attractive, heavy makeup, high cheekbones, a slightly open mouth, no beard, an oval face, smiling, wearing earrings and lipstick.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\167074.jpg:A young woman with arched eyebrows, bags under her eyes, heavy makeup, high cheekbones, a pointy nose, and a smiling face. She is wearing lipstick and does not have a beard.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\055021.jpg:A young woman with attractive features, black hair, heavy makeup, high cheekbones, an oval face, a smile, earrings, lipstick, a necklace, and no beard.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\063813.jpg:A young woman with arched eyebrows, black hair, heavy makeup, high cheekbones, her mouth slightly open, an oval face, a smile, straight hair, wearing earrings, wearing lipstick, wearing a necklace.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\162985.jpg:A young, attractive man with 5 o'clock shadow, black hair, bushy eyebrows, and straight hair.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\091944.jpg:A young man with blond hair, wearing eyeglasses and a necklace, with a straight hairline and no beard.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\092158.jpg:A young male with 5 o'clock shadow, brown hair, bushy eyebrows, an oval face, a pointy nose, sideburns, and wavy hair.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\045951.jpg:A young woman with arched eyebrows, black hair, heavy makeup, high cheekbones, a slightly open mouth, no beard, a smiling face, and wearing lipstick.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\174662.jpg:A young woman with arched eyebrows, attractive features, heavy makeup, high cheekbones, no beard, smiling, wavy hair, wearing earrings, wearing lipstick, wearing a necklace.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\053100.jpg:A person with bangs, a big nose, blond hair, no beard, straight hair, and wearing lipstick.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\037374.jpg:A young, attractive man with big lips and an oval face.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\125584.jpg:A young woman with bangs, big lips, a big nose, black hair, heavy makeup, a slightly open mouth, no beard, a pointy nose, smiling, straight hair, wearing lipstick, wearing a necklace.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\126114.jpg:a person with eyeglasses, gray hair and no beard.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\185776.jpg:A young attractive person with heavy makeup, pale skin, a pointy nose, wavy hair, wearing lipstick and no beard.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\159190.jpg:A young man with high cheekbones, wearing a necktie and eyeglasses, without a beard and with a double chin.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\157426.jpg:A young man with a 5 o'clock shadow, brown hair, an oval face, and his mouth slightly open.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\037943.jpg:A male with big lips, big nose, chubby face, eyeglasses, goatee, mustache, sideburns, wearing earrings and hat.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\192754.jpg:A young attractive woman with brown hair, arched eyebrows, big lips, heavy makeup, high cheekbones, slightly open mouth, no beard, smiling, wavy hair, and wearing lipstick.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\061285.jpg:A male with bags under eyes, big nose, gray hair, no beard, pointy nose, and receding hairline.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\055130.jpg:A young male with bags under his eyes, a bald head, a big nose, a goatee, a mustache, a receding hairline, and sideburns.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\094466.jpg:A young person with big lips, brown hair, and straight hair, without a beard.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\162630.jpg:A young and attractive person with arched eyebrows, black hair, heavy makeup, high cheekbones, no beard, a pointy nose, wearing earrings and lipstick.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\065092.jpg:A young male with bags under his eyes, big lips, a big nose, bushy eyebrows, a goatee, a mustache, an oval face, and a receding hairline.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\021402.jpg:A young woman with arched eyebrows, heavy makeup, narrow eyes, rosy cheeks, straight hair, wearing earrings, wearing lipstick, wearing a necklace, and no beard.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\083508.jpg:a man with 5 o'clock shadow, bags under eyes, wearing eyeglasses and having gray hair
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\152086.jpg:A young person with an oval face, wearing earrings and a necklace, and without a beard.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\194204.jpg:A young man with high cheekbones and an oval face, smiling with a slightly open mouth and no beard, with bags under his eyes.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\171554.jpg:A young, attractive man with black hair, heavy makeup, no beard, an oval face, and wearing lipstick.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\053648.jpg:A young male with arched eyebrows, big lips, a big nose, black hair, bushy eyebrows, a chubby face, no beard, a receding hairline, wearing earrings.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\089774.jpg:A man with bags under his eyes, gray hair, high cheekbones, and no beard.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\099192.jpg:A young man with a big nose, high cheekbones, a slightly open mouth, no beard, a receding hairline, and a smiling expression.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\132319.jpg:A young woman with attractive features, black hair, heavy makeup, high cheekbones, an oval face, a pointy nose, a slight smile, no beard, wearing earrings and lipstick.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\048553.jpg:A young, attractive man with 5 o'clock shadow, bags under his eyes, big lips, a big nose, black hair, bushy eyebrows, high cheekbones, a slightly open mouth, no beard, and a smiling face.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\184437.jpg:A young woman with attractive features, big lips, black hair, bushy eyebrows, heavy makeup, high cheekbones, slightly open mouth, no beard, oval face, rosy cheeks, smiling, wavy hair, wearing earrings, wearing lipstick.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\167112.jpg:A young woman with arched eyebrows, attractive features, heavy makeup, no beard, straight hair, wearing lipstick.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\095877.jpg:a young person wearing a hat without a beard
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\181681.jpg:A young male with brown hair, bangs, a slightly open mouth, and no beard.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\169609.jpg:A young and attractive person with arched eyebrows, brown hair, bushy eyebrows, heavy makeup, high cheekbones, no beard, a pointy nose, wavy hair, and wearing lipstick.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\149993.jpg:A young, attractive, black-haired man with no beard and straight hair.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\092513.jpg:A young woman with arched eyebrows and attractive features, wearing heavy makeup and lipstick, with wavy brown hair and an oval face, and no beard.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\195313.jpg:A young, attractive woman with arched eyebrows, blond hair, heavy makeup, high cheekbones, no beard, wearing earrings, lipstick, necklace, and bangs.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\114051.jpg:A young woman with arched eyebrows, attractive blond hair, heavy makeup, high cheekbones, a pointy nose, and wearing earrings, lipstick, and a necklace. She does not have a beard.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\157557.jpg:A young man with brown hair, a 5 o'clock shadow, a slightly open mouth, narrow eyes, sideburns, and a smiling expression.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\093059.jpg:A young woman with bangs, heavy makeup, high cheekbones, a slightly open mouth, no beard, a smiling expression, straight hair, wearing a hat, wearing lipstick, wearing a necklace.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\128586.jpg:A smiling man with a big nose, gray hair, high cheekbones, a slightly open mouth, no beard, pale skin, and a receding hairline.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\173230.jpg:A young woman with arched eyebrows, attractive blond hair, heavy makeup, high cheekbones, slightly open mouth, no beard, oval face, pointy nose, rosy cheeks, smiling, wavy hair, wearing lipstick.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\016419.jpg:A young woman with attractive features, heavy makeup, high cheekbones, a slightly open mouth, no beard, a pointy nose, rosy cheeks, a smiling expression, wavy hair, wearing earrings, wearing lipstick.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\107924.jpg:A young man with black hair, bushy eyebrows, high cheekbones, a slightly open mouth, no beard, and a smiling expression.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\111525.jpg:A young attractive person with bangs, big lips, brown hair, heavy makeup, no beard, and pale skin.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\043928.jpg:A young, attractive man with high cheekbones, arched eyebrows, bags under his eyes, a big nose, and a slightly open mouth, who is smiling and does not have a beard.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\202144.jpg:A young man with high cheekbones, slightly open mouth, narrow eyes, no beard, wavy hair, wearing a hat.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\034262.jpg:A chubby man with a big nose and double chin, wearing eyeglasses and a necktie, and having gray hair, but no beard.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\202555.jpg:A man with bags under his eyes, a big nose, bushy eyebrows, high cheekbones, no beard, a receding hairline, and wearing a necktie.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\019236.jpg:A young man with a 5 o'clock shadow, big nose, slightly open mouth, no beard, smiling, and straight hair, wearing a necktie.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\125208.jpg:A young man with attractive features, bags under his eyes, a big nose, slightly open mouth, no beard, and a smiling expression, with straight hair.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\006846.jpg:A young woman with blond and brown hair, high cheekbones, rosy cheeks, and a slight smile. She has an oval face and is wearing lipstick. Her wavy hair is styled attractively and she has a heavy makeup. She does not have a beard.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\051923.jpg:A young woman with bags under her eyes, heavy makeup, high cheekbones, no beard, oval face, smiling, wavy hair, wearing earrings, wearing lipstick.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\121462.jpg:A young person with black hair, bangs, pale skin, heavy makeup, no beard, and wearing lipstick.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\094163.jpg:A young man with big lips and a slightly open mouth.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\144987.jpg:A young man with eyeglasses, a slightly open mouth, no beard, a smiling face, wavy hair, and wearing a hat.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\068039.jpg:A young male with bangs, a big nose, and no beard.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\039630.jpg:A young man with black hair, wearing a hat and a necktie, has bangs and slightly open mouth. He has pale skin and no beard.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\097292.jpg:A bald man with bags under his eyes, a big nose, gray hair, an oval face, a receding hairline, sideburns, and wearing a necktie.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\053293.jpg:A young woman with blond hair, high cheekbones, a pointy nose, and a slight smile. She has heavy makeup, wavy hair, and is wearing lipstick.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\014566.jpg:A young woman with blond hair, high cheekbones, and an oval face, wearing a necklace, with bangs and straight hair, smiling with her mouth slightly open, and no beard. The image is slightly blurry.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\119274.jpg:A young, attractive man with black hair, arched eyebrows, a big nose, bushy eyebrows, a slightly open mouth, and a smiling expression, without a beard.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\181556.jpg:A young and attractive person with arched eyebrows, high cheekbones, a pointy nose, and a smiling face. They have brown hair, an oval face, and are wearing earrings. They do not have a beard and have straight hair.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\164957.jpg:An attractive young person with bangs, big lips, pale skin, and no beard.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\104137.jpg:A male with bags under eyes, bangs, a big nose, narrow eyes, and no beard.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\056487.jpg:An attractive young woman with brown hair, heavy makeup, high cheekbones, a slightly open mouth, no beard, a pointy nose, a smiling expression, wearing lipstick, a necklace, and looking young.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\015127.jpg:A young male with black hair, bushy eyebrows, and straight hair, but no beard.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\073387.jpg:A young woman with arched eyebrows, attractive, wearing bangs and lipstick, with big lips, heavy makeup, high cheekbones, slightly open mouth, narrow eyes, no beard, pointy nose, rosy cheeks, smiling, wearing a necklace
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\150783.jpg:An attractive young woman with blond hair, heavy makeup, no beard, an oval face, wavy hair, wearing lipstick, wearing a necklace.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\064916.jpg:A young male with bags under his eyes, bangs, bushy eyebrows, no beard, and wavy hair.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\046227.jpg:A young, smiling, bald man with big lips, a big nose, a chubby face, a goatee, high cheekbones, an oval face, and his mouth slightly open.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\152736.jpg:An attractive, blond-haired, slightly-open-mouthed man with no beard, an oval face, a pointy nose, a smiling expression, straight hair, wearing lipstick, and looking young.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\141021.jpg:A male with 5 o'clock shadow, bags under eyes, bushy eyebrows, slightly open mouth, narrow eyes, and no beard.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\159027.jpg:A young man with a big, pointy nose and no beard.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\163800.jpg:An attractive man with a 5 o'clock shadow, bags under his eyes, a big and pointy nose, a receding hairline, sideburns, and a slightly open mouth, smiling with wavy hair.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\187983.jpg:A young woman with attractive features, big lips, blond hair, heavy makeup, pale skin, a pointy nose, wavy hair, wearing lipstick, and without a beard.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\134710.jpg:A young person with arched eyebrows, big lips, black hair, brown hair, heavy makeup, no beard, and wearing lipstick.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\186725.jpg:A male with black hair, bushy eyebrows, and a mustache.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\036930.jpg:A young woman with attractive features, black hair, heavy makeup, high cheekbones, no beard, a pointy nose, a smiling expression, straight hair, and wearing lipstick.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\076630.jpg:A young, smiling man with 5 o'clock shadow, a big nose, black hair, a chubby face, and slightly open mouth.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\183260.jpg:A bald, big-nosed, chubby man with a double chin, wearing eyeglasses, slightly opening his mouth, not having a beard, and smiling.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\123319.jpg:A young man with bags under his eyes, a big nose, brown hair, an oval face, slightly open mouth, no beard, and wavy hair.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\048811.jpg:A smiling woman with arched eyebrows, bangs, blond hair, heavy makeup, high cheekbones, a slightly open mouth, no beard, and wearing lipstick.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\056781.jpg:A young woman with arched eyebrows, attractive features, big lips, black hair, heavy makeup, high cheekbones, slightly open mouth, no beard, oval face, pointy nose, rosy cheeks, smiling, straight hair, wearing earrings, wearing lipstick.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\015150.jpg:A young attractive woman with big lips, blond hair, heavy makeup, no beard, an oval face, a pointy nose, and wearing lipstick.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\096578.jpg:A young woman with arched eyebrows, attractive, big lips, brown hair, heavy makeup, no beard, oval face, pointy nose, wavy hair, wearing lipstick.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\165805.jpg:A male with black hair and bags under his eyes, his mouth slightly open and his hair wavy.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\189515.jpg:A young woman with bangs, big lips, high cheekbones, a slightly open mouth, no beard, a pointy nose, a smiling expression, wavy hair, and wearing lipstick.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\182998.jpg:A young woman with attractive features, heavy makeup, high cheekbones, a slightly open mouth, narrow eyes, no beard, an oval face, a pointy nose, a smiling expression, and wearing lipstick.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\042720.jpg:A young attractive male with a pointy nose and sideburns, wearing a hat.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\110222.jpg:An attractive young man with brown wavy hair, an oval face, and no beard.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\038784.jpg:An attractive woman with bangs, brown hair, heavy makeup, high cheekbones, a slightly open mouth, no beard, an oval face, and a smiling expression. She has wavy hair and is wearing lipstick.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\136805.jpg:A person with bangs, big lips, blond hair, eyeglasses, high cheekbones, slightly open mouth, narrow eyes, no beard, pale skin, smiling, wavy hair, wearing lipstick, and wearing a necklace.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\139634.jpg:A young, attractive man with a 5 o'clock shadow, big nose, brown hair, bushy eyebrows, high cheekbones, slightly open mouth, narrow eyes, and a smiling expression. He has wavy hair.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\193194.jpg:A smiling male with 5 o'clock shadow, arched eyebrows, bags under eyes, big lips, big nose, black hair, chubby face, double chin, goatee, high cheekbones, mouth slightly open, mustache, receding hairline, sideburns, and wearing earrings.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\172011.jpg:A young woman with arched eyebrows, blond hair, heavy makeup, no beard, wearing earrings, wearing lipstick, wearing a necklace.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\015901.jpg:A young woman with arched eyebrows, attractive with brown hair, bushy eyebrows, heavy makeup, slightly open mouth, no beard, wavy hair, wearing earrings, wearing lipstick, wearing a necklace.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\036874.jpg:A young woman with attractive features, black hair, heavy makeup, high cheekbones, a slightly open mouth, no beard, an oval face, a smiling expression, wavy hair, and wearing lipstick.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\113958.jpg:A young woman with attractive features, bangs, black hair, heavy makeup, high cheekbones, a slightly open mouth, no beard, an oval face, a smiling expression, wearing earrings and lipstick.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\176607.jpg:A young woman with arched eyebrows, attractive, blond hair, heavy makeup, high cheekbones, no beard, oval face, receding hairline, rosy cheeks, smiling, straight hair, wearing lipstick.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\153892.jpg:A young man with black hair and a 5 o'clock shadow, with an oval face, pointy nose, and a slightly open mouth, and a receding hairline.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\125788.jpg:A young man with 5 o'clock shadow, black hair, bushy eyebrows, a pointy nose, sideburns, and straight hair.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\196988.jpg:A young person with big lips, brown hair, narrow eyes, no beard, wavy hair, wearing lipstick, and wearing a necklace.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\053669.jpg:A woman with bangs, big nose, brown hair, heavy makeup, high cheekbones, mouth slightly open, no beard, pointy nose, smiling, wavy hair, wearing earrings, and wearing lipstick.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\129552.jpg:A young man with brown hair, high cheekbones, a slightly open mouth, no beard, an oval face, a receding hairline, a smiling expression, and wavy hair.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\036564.jpg:A young and attractive person with arched eyebrows, big lips, heavy makeup, slightly open mouth, no beard, pointy nose, wavy hair, and wearing lipstick.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\012099.jpg:A young woman with arched eyebrows, attractive features, brown hair, heavy makeup, high cheekbones, a slightly open mouth, pale skin, a pointy nose, a smiling expression, wavy hair, wearing lipstick, and no beard.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\200173.jpg:A woman with arched eyebrows, attractive, wearing bangs, big lips, blond hair, heavy makeup, high cheekbones, mouth slightly open, narrow eyes, no beard, oval face, pointy nose, rosy cheeks, smiling, wavy hair, wearing earrings, wearing lipstick, and wearing a necklace.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\131369.jpg:A young woman with attractive features, black hair, heavy makeup, a slightly open mouth, no beard, an oval face, a smiling expression, wavy hair, and wearing lipstick.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\081085.jpg:A young person with heavy makeup, slightly open mouth, no beard, receding hairline, wearing earrings, and wearing lipstick.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\136518.jpg:An attractive young person with black hair, slightly open mouth, no beard, pointy nose, and wearing lipstick.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\087372.jpg:A young attractive woman with wavy black hair, high cheekbones, arched eyebrows, bags under her eyes, a big nose, and a slightly open mouth. She is smiling and not wearing a beard. She is also wearing earrings, lipstick, and a necklace.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\146639.jpg:A young woman with attractive features, heavy makeup, high cheekbones, a slightly open mouth, no beard, a smiling expression, wavy hair, and wearing lipstick.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\109647.jpg:An attractive young woman with arched eyebrows, big lips, heavy makeup, no beard, oval face, pale skin, wavy hair, wearing lipstick, wearing a necklace.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\133232.jpg:A young person with blond hair, heavy makeup, no beard, pointy nose, smiling, wearing earrings and lipstick.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\176788.jpg:A young woman with arched eyebrows, bangs, big lips, black hair, heavy makeup, no beard, and wearing lipstick.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\181502.jpg:A young male with big lips, big nose, bushy eyebrows, slightly open mouth, no beard, and wavy hair.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\181874.jpg:A smiling man with a big nose, eyeglasses, a goatee, and straight hair, his mouth slightly open, and an oval face.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\155926.jpg:A young, attractive man with brown hair, bushy eyebrows, a pointy nose, and no beard.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\005975.jpg:A young attractive male with bags under his eyes, bangs, big lips, a big nose, bushy eyebrows, high cheekbones, a slightly open mouth, no beard, and a straight hair.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\133926.jpg:An attractive woman with arched eyebrows, big lips, black hair, bushy eyebrows, heavy makeup, high cheekbones, a slightly open mouth, no beard, a pointy nose, rosy cheeks, and a smiling face. She has wavy hair and is wearing earrings and lipstick.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\011567.jpg:A young woman with blond hair, blurry background, heavy makeup, slightly open mouth, no beard, pointy nose, smiling, and straight hair.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\062254.jpg:A young person with blond hair and bangs, blurry and narrow eyes, pale skin and no beard.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\070408.jpg:A young woman with attractive features, bushy eyebrows, heavy makeup, high cheekbones, no beard, a pointy nose, a receding hairline, wearing earrings, wearing lipstick.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\151790.jpg:An attractive young woman with heavy makeup, high cheekbones, a slightly open mouth, no beard, an oval face, a pointy nose, rosy cheeks, a smiling expression, wavy hair, wearing lipstick.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\070852.jpg:a smiling woman with gray hair, high cheekbones, an oval face, a pointy nose, wavy hair, and wearing earrings and lipstick
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\044912.jpg:An attractive young woman with blond and brown hair, high cheekbones, a slightly open mouth, no beard, a pointy nose, and a smile. She has heavy makeup, straight hair, and is wearing earrings and lipstick.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\059865.jpg:A young man with an oval face, smiling and with his mouth slightly open.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\192396.jpg:A chubby man with arched eyebrows, bags under his eyes, brown hair, a double chin, high cheekbones, and a slightly open mouth, smiling and wearing a necktie.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\108078.jpg:A smiling male with bags under eyes, a big nose, and high cheekbones and no beard.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\048894.jpg:A young, attractive man with black hair, bushy eyebrows, high cheekbones, narrow eyes, and a slightly open mouth. He has no beard and is smiling.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\032131.jpg:A young woman with arched eyebrows, attractive features, heavy makeup, no beard, an oval face, straight hair, and wearing lipstick.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\108748.jpg:An attractive woman with arched eyebrows, bangs, big lips, brown hair, heavy makeup, high cheekbones, slightly open mouth, narrow eyes, no beard, smiling, wavy hair, wearing earrings, and wearing lipstick.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\015526.jpg:An attractive man with brown hair, no beard, and an oval face.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\093884.jpg:An attractive young woman with heavy makeup, high cheekbones, no beard, an oval face, a pointy nose, a smiling expression, wearing earrings and lipstick.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\032532.jpg:An attractive young person with big lips, pale skin, and straight hair, and without a beard.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\128529.jpg:A young woman with attractive features, brown hair, heavy makeup, high cheekbones, no beard, oval face, rosy cheeks, smiling, wavy hair, and wearing lipstick.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\068328.jpg:a young man with a 5 o'clock shadow, big nose, black hair, bushy eyebrows, a slightly open mouth, and no beard.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\172666.jpg:A young woman with arched eyebrows, attractive, heavy makeup, high cheekbones, slightly open mouth, narrow eyes, no beard, oval face, smiling, wavy hair, wearing lipstick.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\062518.jpg:A young male with wavy hair, wearing a hat and slightly open mouth, without a beard.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\085872.jpg:A young woman with arched eyebrows, attractive blond hair, heavy makeup, no beard, pointy nose, wavy hair, wearing lipstick, wearing a necklace.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\131429.jpg:A young attractive blond-haired woman with a pointy nose, wavy hair, and wearing lipstick.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\178001.jpg:A young man with bags under his eyes, bangs, a big nose, black hair, bushy eyebrows, no beard, and a pointy nose.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\046571.jpg:An attractive man with a 5 o'clock shadow, bags under his eyes, big lips, bushy eyebrows, a double chin, a slightly open mouth, a pointy nose, and a smiling expression.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\011310.jpg:A young attractive man with black hair, bangs, a straight hair, a pointy nose, and no beard.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\102229.jpg:A young, attractive woman with arched eyebrows, big lips, heavy makeup, pale skin, a pointy nose, straight hair, and wearing lipstick. She has no beard.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\009686.jpg:A young attractive woman with black hair, wearing heavy makeup, with high cheekbones, a slightly open mouth, no beard, a pointy nose, smiling, wearing lipstick and a necklace.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\124455.jpg:A young woman with arched eyebrows, attractive, black hair, heavy makeup, high cheekbones, no beard, oval face, smiling, wearing earrings and lipstick.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\108156.jpg:A male with bags under eyes, big nose, black hair, goatee, mustache, sideburns, and wearing a necktie.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\137585.jpg:An attractive young woman with blond hair, heavy makeup, and wavy hair, wearing lipstick and having an oval face, and no beard.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\089995.jpg:A young woman with blond hair, wearing heavy makeup and lipstick, has high cheekbones and a slightly open mouth. She is smiling and has rosy cheeks. She is also wearing earrings, a necklace, and is attractive. She does not have a beard and has a pointy nose.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\134906.jpg:A young chubby person with an oval face, wearing earrings and with their mouth slightly open, and no beard.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\175437.jpg:A young male with attractive features, brown hair, bags under his eyes, and straight hair, without a beard.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\175300.jpg:A young, attractive man with 5 o'clock shadow, arched eyebrows, bags under his eyes, black hair, bushy eyebrows, high cheekbones, a slightly open mouth, no beard, and a straight hair, smiling.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\042949.jpg:A chubby man with eyeglasses, high cheekbones, a slightly open mouth, sideburns, and wearing a hat.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\024321.jpg:A young, attractive man with a big nose, black hair, high cheekbones, a slightly open mouth, an oval face, a smile, straight hair, and no beard.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\075988.jpg:A young attractive woman with blond hair, heavy makeup, high cheekbones, a slightly open mouth, and a smiling face. She has an oval face and straight hair, and is wearing lipstick and a necklace.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\181426.jpg:A male with brown hair, high cheekbones, and no beard.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\189982.jpg:An attractive young man
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\136764.jpg:A bald man with arched eyebrows, bags under his eyes, big lips, a big nose, and a smiling expression.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\104171.jpg:A young man with arched eyebrows, a big nose, bushy eyebrows, a goatee, sideburns, wearing earrings and a hat.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\012489.jpg:A young man with black hair, high cheekbones, narrow eyes, no beard, and bags under his eyes, smiling with his mouth slightly open, and having straight hair.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\137426.jpg:A young woman with attractive features, heavy makeup, high cheekbones, a slightly open mouth, no beard, a pointy nose, a smiling expression, straight and wavy hair, and wearing lipstick.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\027233.jpg:A young male with 5 o'clock shadow, arched eyebrows, bags under his eyes, big lips, a big nose, black hair, bushy eyebrows, high cheekbones, a slightly open mouth, and a smiling expression.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\085317.jpg:A young and attractive woman with arched eyebrows, blond hair, heavy makeup, high cheekbones, a slightly open mouth, no beard, an oval face, pale skin, a pointy nose, rosy cheeks, a smiling expression, wearing earrings and lipstick.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\174868.jpg:A young woman with attractive features, big lips, brown hair, heavy makeup, high cheekbones, no beard, and wearing lipstick.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\056765.jpg:A young woman with attractive features, brown hair, heavy makeup, high cheekbones, a slightly open mouth, no beard, an oval face, rosy cheeks, a smiling expression, and wearing lipstick.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\075456.jpg:A chubby man with bags under his eyes, a big nose, brown hair, and sideburns.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\026478.jpg:A young male with a goatee, pointy nose, wearing a hat.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\131832.jpg:A young, attractive man with bags under his eyes, bangs, brown hair, bushy eyebrows, wavy hair, and no beard.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\158056.jpg:A young woman with arched eyebrows, attractive features, brown hair, heavy makeup, high cheekbones, a slightly open mouth, an oval face, a smiling expression, no beard, and wearing lipstick.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\173647.jpg:A young attractive person with big lips, high cheekbones, a slightly open mouth, narrow eyes, no beard, a smiling expression, and wavy hair, wearing lipstick.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\056795.jpg:A young person without a beard in a blurry image.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\054089.jpg:A male with 5 o'clock shadow, bags under eyes, brown hair, no beard, and a pointy nose.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\092993.jpg:A young person with blurry brown hair, no beard, and a pointy nose.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\022328.jpg:A young man with 5 o'clock shadow and straight hair, appearing blurry.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\042119.jpg:A young man with attractive features, black hair, bushy eyebrows, high cheekbones, no beard, and a pointy nose, wearing a hat.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\061562.jpg:A young person with big lips, brown hair, eyeglasses, heavy makeup, no beard, wavy hair, and wearing lipstick.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\161547.jpg:A young man with arched eyebrows, black hair, narrow eyes, no beard, receding hairline, straight hair, wearing earrings and necklace.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\173467.jpg:A young man with an attractive smile, high cheekbones, and a slightly open mouth, wearing a hat and having an oval face with a big nose, and no beard.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\129486.jpg:A young woman with attractive features, blond hair, high cheekbones, heavy makeup, wearing lipstick, smiling with her mouth slightly open, and bags under her eyes. She has no beard.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\057772.jpg:A young man with attractive features, black hair, a 5 o'clock shadow, big lips, and wearing a necktie. He does not have a beard.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\093370.jpg:An attractive male with a 5 o'clock shadow, bags under his eyes, a big nose, black hair, bushy eyebrows, a goatee, and a mustache.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\021322.jpg:A young woman with attractive features, bangs, heavy makeup, slightly open mouth, no beard, wavy hair, wearing lipstick, wearing a necklace.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\048605.jpg:An attractive young woman with blond hair, heavy makeup, high cheekbones, a slightly open mouth, no beard, pale skin, a smile, wavy hair, and wearing lipstick.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\119462.jpg:A young woman with arched eyebrows, black hair, slightly open mouth, no beard, smiling, and wearing lipstick.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\017383.jpg:a man with 5 o'clock shadow, wearing eyeglasses and straight hair, without a beard.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\178098.jpg:A young woman with arched eyebrows, attractive features, bangs, big lips, heavy makeup, pale skin, wavy hair, wearing earrings and lipstick. She does not have a beard.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\077711.jpg:A young attractive man with brown hair, high cheekbones, an oval face, and a slight smile, his mouth slightly open, and no beard. He has straight hair.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\044729.jpg:A young woman with arched eyebrows, attractive features, brown hair, heavy makeup, high cheekbones, slightly open mouth, no beard, oval face, rosy cheeks, smiling, wavy hair, wearing lipstick.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\074688.jpg:A young, attractive man with a 5 o'clock shadow, black hair, high cheekbones, narrow eyes, a slightly open mouth, a straight hair, and a smiling expression.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\032811.jpg:a person with bags under eyes, no beard, and wavy hair
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\040740.jpg:A young man with black wavy hair and a 5 o'clock shadow.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\121556.jpg:a man with a big nose, double chin, wearing eyeglasses, no beard, straight hair, and wearing a necktie
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\147434.jpg:A young woman with attractive features, arched eyebrows, big lips, brown hair, heavy makeup, high cheekbones, a slightly open mouth, narrow eyes, no beard, a pointy nose, and a smiling expression. She is also wearing earrings and lipstick.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\072969.jpg:A young woman with attractive features, blond hair, bangs, heavy makeup, high cheekbones, a slightly open mouth, no beard, an oval face, a pointy nose, a smile, wavy hair, wearing lipstick.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\024655.jpg:An attractive person with bangs, big lips, a slightly open mouth, no beard, a pointy nose, and wearing lipstick.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\061443.jpg:A young person wearing eyeglasses and a hat without a beard.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\157677.jpg:A young woman with attractive features, brown hair, heavy makeup, slightly open mouth, no beard, wavy hair, and wearing lipstick.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\164772.jpg:A young person with arched eyebrows, high cheekbones, a slightly open mouth, no beard, an oval face, a pointy nose, a receding hairline, a smiling expression, wearing earrings and lipstick.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\008283.jpg:A young attractive man with high cheekbones, a slightly open mouth, no beard, an oval face, and a smiling expression, with straight hair.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\163499.jpg:A young and attractive man with a 5 o'clock shadow, arched eyebrows, high cheekbones, black hair, sideburns, and a slightly open mouth, who is smiling.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\102850.jpg:A young attractive woman with heavy makeup, high cheekbones, an oval face, a pointy nose, rosy cheeks, a slight smile, and wavy hair, wearing earrings and lipstick.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\047633.jpg:A person with arched eyebrows, bags under eyes, bangs, big lips, blond hair, high cheekbones, mouth slightly open, no beard, smiling, wearing earrings, wearing lipstick, and wearing a necklace.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\153812.jpg:A chubby man with bags under his eyes, a big nose, gray hair, narrow eyes, and wearing a necktie. He does not have a beard and has straight hair.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\035805.jpg:A young woman with arched eyebrows, attractive appearance, big lips, brown hair, heavy makeup, high cheekbones, slightly open mouth, no beard, pointy nose, smiling, wavy hair, wearing lipstick, wearing a necklace.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\195992.jpg:A young woman with arched eyebrows, attractive features, heavy makeup, no beard, oval face, pale skin, a smiling expression, straight hair, and wearing lipstick.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\049734.jpg:A young, attractive woman with high cheekbones, wearing lipstick and having bangs, brown hair, no beard, and an oval face.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\137580.jpg:A young man with black hair, bushy eyebrows, and straight hair, without a beard.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\113965.jpg:A young, attractive man with black hair, high cheekbones, a slightly open mouth, narrow eyes, no beard, an oval face, a smiling expression, and straight hair.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\082198.jpg:a young male with bags under eyes, bangs, big nose, brown hair, no beard, straight hair, and wavy hair
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\007326.jpg:A young woman with arched eyebrows, attractive, black hair, heavy makeup, high cheekbones, mouth slightly open, no beard, pale skin, smiling, straight hair, wearing lipstick, wearing necklace.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\012582.jpg:A young woman with attractive features, brown hair, heavy makeup, high cheekbones, a slightly open mouth, an oval face, a smiling expression, wavy hair, wearing earrings, wearing lipstick, and bags under her eyes.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\162804.jpg:A young woman with arched eyebrows, attractive features, heavy makeup, high cheekbones, a slightly open mouth, no beard, an oval face, a smiling expression, wavy hair, wearing earrings, wearing lipstick.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\070396.jpg:An attractive young person with big lips and wavy hair, wearing earrings and lipstick, and without a beard.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\139593.jpg:A chubby smiling man with bags under his eyes, a big nose, gray hair, a slightly open mouth, a mustache, and an oval face.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\008163.jpg:A young man with brown hair, high cheekbones, a slightly open mouth, narrow eyes, no beard, and a smile, with straight hair.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\043768.jpg:A young woman with arched eyebrows, bags under eyes, bangs, a big nose, black hair, bushy eyebrows, heavy makeup, high cheekbones, a slightly open mouth, no beard, an oval face, smiling, straight hair, wearing lipstick, wearing a necklace.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\174728.jpg:A young man with a 5 o'clock shadow, big nose, black hair, and a goatee.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\173802.jpg:A young woman with attractive features, big lips, brown hair, heavy makeup, no beard, oval face, wavy hair, wearing earrings, wearing lipstick.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\194483.jpg:A young woman with attractive features, brown hair, heavy makeup, high cheekbones, no beard, a pointy nose, wavy hair, and wearing lipstick.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\074095.jpg:A bald, big-nosed, chubby man with a double chin, wearing eyeglasses and a mustache, is smiling.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\052524.jpg:A young man with bags under his eyes, a big nose, black hair, bushy eyebrows, high cheekbones, a slightly open mouth, a mustache, narrow eyes, and an oval face.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\179341.jpg:An attractive young woman with heavy makeup, wearing earrings, lipstick, and a necklace. She has no beard, a pointy nose, and wavy hair.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\055056.jpg:A young person with big lips, blurry, bushy eyebrows, narrow eyes, no beard, wavy hair, wearing lipstick.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\044228.jpg:A young male with a 5 o'clock shadow, slightly open mouth, and wearing a hat.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\060488.jpg:A chubby man with bags under his eyes, a big nose, a double chin, high cheekbones, and a slightly open mouth is smiling and wearing a necktie. He has straight hair and does not have a beard.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\088362.jpg:A young attractive blond-haired person with a slightly open mouth, no beard, and a smiling face, wearing earrings, lipstick, and a necklace.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\185323.jpg:An attractive young woman with brown hair, heavy makeup, a slightly open mouth, no beard, an oval face, a pointy nose, a receding hairline, a smiling expression, wearing earrings and lipstick.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\007693.jpg:A chubby man with bags under his eyes, a big nose, a double chin, gray hair, narrow eyes, a receding hairline, and wavy hair, without a beard.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\012058.jpg:A young woman with arched eyebrows, attractive face, heavy makeup, high cheekbones, oval face, receding hairline, wearing earrings and lipstick, and no beard.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\106414.jpg:A young woman with attractive features, blond hair, heavy makeup, high cheekbones, a slightly open mouth, no beard, an oval face, pale skin, a pointy nose, a smiling expression, straight hair, wearing lipstick.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\178096.jpg:A young male with attractive features, big lips, a big nose, black hair, bushy eyebrows, high cheekbones, a slightly open mouth, and a smiling expression, wearing a necktie and no beard, with bags under his eyes.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\109138.jpg:A young woman with blond hair, high cheekbones, heavy makeup, wavy hair, and a smiling face, wearing lipstick and looking attractive.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\124029.jpg:A young man with a big nose, black hair, bushy eyebrows, a slightly open mouth, no beard, a receding hairline, and a smiling expression.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\007396.jpg:A smiling male with bags under his eyes, big lips, a big nose, bushy eyebrows, a chubby face, a double chin, slightly open mouth, pale skin.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\022494.jpg:A person with arched eyebrows, bags under eyes, bangs, blond and gray hair, high cheekbones, slightly open mouth, no beard, smiling, wavy hair, wearing earrings, wearing lipstick, and wearing a necklace.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\167186.jpg:A young man with black hair, bushy eyebrows, a pointy nose, and straight hair, wearing a necktie, without a beard, and with a 5 o'clock shadow.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\072606.jpg:a young man with a 5 o'clock shadow, attractive, black hair, high cheekbones, mouth slightly open, oval face, smiling, straight hair, wearing a necktie.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\078039.jpg:A young man with attractive features, bushy eyebrows, high cheekbones, no beard, and a smiling face.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\024744.jpg:A young woman with attractive features, brown hair, heavy makeup, high cheekbones, a slightly open mouth, no beard, an oval face, a smiling expression, wavy hair, wearing earrings and lipstick.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\004163.jpg:A young male with 5 o'clock shadow, bags under his eyes, black hair, a pointy nose, sideburns, wavy hair, wearing a necktie.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\117348.jpg:A young person with arched eyebrows, black hair, slightly open mouth, no beard, and wearing lipstick.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\163778.jpg:A man with eyeglasses, a goatee, a mustache, wavy hair, and wearing a necktie.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\114027.jpg:A chubby man with big lips, big nose, black hair, a double chin, wearing eyeglasses and a necktie, with his mouth slightly open and no beard.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\136609.jpg:A young man with brown hair and no beard.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\048298.jpg:A bald, chubby man with a double chin and gray hair is smiling and wearing a necktie. He has high cheekbones and a receding hairline, and he does not have a beard.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\200487.jpg:An attractive young person with brown hair, bangs, heavy makeup, wearing lipstick, and no beard.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\152648.jpg:A male with a big nose, gray hair, no beard, and wavy hair.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\193906.jpg:a man without a beard
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\140051.jpg:a young male with 5 o'clock shadow, big lips, brown hair, and bushy eyebrows
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\200630.jpg:A young person with high cheekbones, a slightly open mouth, no beard, a pointy nose, a smile, wearing earrings, and wearing lipstick.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\109051.jpg:A bald man with eyeglasses, a goatee, and gray hair.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\175268.jpg:a person with arched eyebrows, slightly open mouth, no beard, wavy hair, and wearing earrings
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\074990.jpg:A young person with attractive blond hair and brown hair, no beard, and a pointy nose, wearing earrings and having straight hair.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\191890.jpg:A young man with brown hair, wearing earrings, with his mouth slightly open and no beard, with straight hair.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\188534.jpg:A young woman with attractive features, heavy makeup, high cheekbones, a slightly open mouth, no beard, a smiling expression, wearing earrings and lipstick.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\021047.jpg:A young, attractive woman with heavy makeup, slightly open mouth, no beard, pointy nose, smiling, wavy hair, and wearing lipstick.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\116053.jpg:A young woman with blond hair, high cheekbones, and a slight smile, wearing earrings and lipstick, with bangs, heavy makeup, and a straight hairstyle. She has an oval face and her mouth is slightly open. She does not have a beard.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\086290.jpg:A smiling man with 5 o'clock shadow, attractive features, bags under his eyes, a big nose, a goatee, slightly open mouth, narrow eyes, a pointy nose, sideburns, and wavy hair.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\060338.jpg:A young attractive man with blond hair, high cheekbones and an oval face is smiling with his mouth slightly open. He has no beard and has wavy hair.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\088718.jpg:A woman with arched eyebrows, big lips, a big nose, blond hair, heavy makeup, high cheekbones, a slightly open mouth, no beard, rosy cheeks, smiling, wavy hair, wearing earrings, wearing lipstick, and wearing a necklace.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\047943.jpg:A young man with black hair, bangs, big lips, pale skin, and a slightly open mouth. He does not have a beard.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\049795.jpg:An attractive young woman with brown hair, bangs, heavy makeup, slightly open mouth, no beard, pointy nose, and wearing lipstick.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\050059.jpg:A young woman with attractive features, black hair, heavy makeup, high cheekbones, a slightly open mouth, no beard, an oval face, a receding hairline, a smiling expression, wearing earrings, wearing lipstick.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\053355.jpg:A young woman with blond hair, high cheekbones, bags under her eyes, and a slightly open mouth, who has an oval face, is smiling and wearing earrings.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\127234.jpg:A young woman with arched eyebrows, bangs, big lips, blond hair, no beard, pointy nose, straight hair, wearing lipstick, and a necklace.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\068003.jpg:A young woman with arched eyebrows, attractive face, bangs, blond hair, heavy makeup, high cheekbones, no beard, wavy hair, wearing lipstick.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\066078.jpg:A young, attractive man with blond hair, bushy eyebrows, high cheekbones, rosy cheeks, and a slight smile. He has an oval face, wavy hair, and no beard.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\011560.jpg:A young man with a big nose, bushy eyebrows, high cheekbones, slightly open mouth, narrow eyes, no beard, smiling, and wavy hair.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\117450.jpg:A young woman with attractive features, black hair, heavy makeup, high cheekbones, a slightly open mouth, no beard, an oval face, a pointy nose, a smiling expression, wavy hair, wearing earrings, wearing lipstick.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\131569.jpg:A young woman with arched eyebrows, attractive appearance, big lips, black hair, heavy makeup, high cheekbones, an oval face, pointy nose, rosy cheeks, smiling expression, wearing earrings, wearing lipstick, wearing a necklace.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\199361.jpg:A young, attractive man with high cheekbones, bags under his eyes, an oval face, a receding hairline, and no beard, who is smiling and wearing a necktie with straight hair.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\034682.jpg:A young man with high cheekbones, gray hair, a slight open mouth, no beard, an oval face, a receding hairline, smiling, and bags under his eyes.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\092591.jpg:A young male with a slightly open mouth, narrow eyes, no beard, oval face, smiling, wavy hair.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\174439.jpg:A young woman with attractive features, blond hair, bangs, heavy makeup, wearing lipstick, and having an oval face and a pointy nose. She does not have a beard.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\182518.jpg:An attractive young man with bangs, big nose, black hair, bushy eyebrows, high cheekbones, mouth slightly open, no beard, pointy nose, smiling, and wearing a necklace.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\183262.jpg:A young attractive woman with arched eyebrows, big lips, heavy makeup, no beard, oval face, pointy nose, wavy hair, wearing lipstick, wearing a necklace.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\051848.jpg:A young, attractive woman with arched eyebrows, big lips, blond hair, heavy makeup, no beard, pointy nose, rosy cheeks, wavy hair, and wearing lipstick.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\075316.jpg:A young woman with arched eyebrows, attractive, black hair, heavy makeup, high cheekbones, mouth slightly open, no beard, pointy nose, smiling, wearing lipstick.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\095883.jpg:A young woman with arched eyebrows, heavy makeup, slightly open mouth, no beard, wavy hair, wearing earrings and lipstick.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\134900.jpg:A young person with arched eyebrows, big lips, a big nose, high cheekbones, a slightly open mouth, no beard, a pointy nose, a receding hairline, a smiling face, wearing earrings, wearing lipstick, wearing a necklace.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\075762.jpg:A blond-haired woman with arched eyebrows, a big nose, heavy makeup, high cheekbones, rosy cheeks, a smiling expression, wavy hair, and wearing earrings, lipstick, and a necklace.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\086901.jpg:A young and attractive man with a 5 o'clock shadow, arched eyebrows, bags under his eyes, big lips, black hair, bushy eyebrows, a slightly open mouth, no beard, a pointy nose, and a smiling expression.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\153641.jpg:A young woman with attractive features, brown hair, heavy makeup, high cheekbones, no beard, oval face, pointy nose, smiling, wavy hair, wearing lipstick.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\126519.jpg:a young person with straight hair and no beard, and wearing bangs
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\017699.jpg:An attractive young woman with blond hair, blurry image, no beard, wavy hair, wearing earrings, wearing lipstick, wearing a necklace.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\202505.jpg:A young woman with attractive features, black hair, brown hair, heavy makeup, high cheekbones, a slightly open mouth, an oval face, a smiling expression, wearing earrings and lipstick.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\119910.jpg:A young male with a slightly open mouth and no beard.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\054340.jpg:A blurry man with narrow eyes, no beard, pale skin, and straight hair.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\088199.jpg:An attractive young woman with bangs, big lips, heavy makeup, high cheekbones, a slightly open mouth, no beard, an oval face, a pointy nose, and a smiling expression. She is also wearing lipstick.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\180818.jpg:A young woman with arched eyebrows, attractive, blond hair, heavy makeup, high cheekbones, mouth slightly open, oval face, smiling, straight hair, wearing lipstick.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\077590.jpg:A chubby man with a big nose, brown hair, a double chin, eyeglasses, a goatee, slightly open mouth, sideburns, and a smiling face, with wavy hair.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\169584.jpg:A young woman with arched eyebrows, attractive, heavy makeup, slightly open mouth, no beard, pointy nose, wavy hair, wearing lipstick.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\013370.jpg:A young blond-haired man with bags under his eyes is smiling and wearing a necklace, and he does not have a beard.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\185892.jpg:A young woman with attractive features, arched eyebrows, big lips, brown hair, heavy makeup, high cheekbones, an oval face, a pointy nose, a smile, wavy hair, wearing lipstick, and no beard.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\151323.jpg:A young woman with arched eyebrows, attractive, brown hair, heavy makeup, no beard, straight hair, wearing lipstick.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\107850.jpg:A young, attractive male with black hair, wearing eyeglasses and earrings and without a beard.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\072835.jpg:A young, attractive man with wavy hair, wearing a hat and no beard.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\161480.jpg:An attractive young person with a pointy nose, wearing lipstick and no beard.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\159293.jpg:A man with bangs and bushy eyebrows, wearing a necktie and having a goatee and sideburns, with a wavy hair and a smiling expression.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\062602.jpg:A young woman with attractive features, brown hair, heavy makeup, no beard, oval face, pale skin, and wearing lipstick.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\167775.jpg:A young, attractive person with bangs, black hair, pale skin, and a smiling face, without a beard and with straight hair.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\039717.jpg:A young woman with arched eyebrows, attractive features, bangs, black hair, heavy makeup, high cheekbones, no beard, wavy hair, and wearing lipstick.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\095419.jpg:A chubby man with a double chin.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\054467.jpg:A male with 5 o'clock shadow, attractive, bags under eyes, brown hair, and wearing a necktie.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\149576.jpg:A young man with bushy eyebrows, a slightly open mouth, narrow eyes, no beard, and a pointy nose.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\128032.jpg:A young woman with attractive arched eyebrows, brown wavy hair, and a slightly open mouth, wearing lipstick and having an oval face without a beard.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\114870.jpg:A young attractive man with arched eyebrows, black hair, an oval face, and straight hair, wearing earrings and no beard.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\132235.jpg:An attractive young woman with bags under her eyes, a big nose, blond hair, high cheekbones, a slightly open mouth, narrow eyes, no beard, a pointy nose, and a smiling expression, with wavy hair and wearing lipstick.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\188015.jpg:An attractive woman with bangs, heavy makeup, high cheekbones, narrow eyes, no beard, a pointy nose, smiling, wavy hair, wearing lipstick, and a necklace.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\183978.jpg:A young attractive male with a 5 o'clock shadow, arched eyebrows, bags under his eyes, a big nose, bushy eyebrows, a goatee, sideburns, wavy black hair.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\032857.jpg:A young, attractive man with black hair, high cheekbones, and a smiling face. He has blurry and straight hair, bushy eyebrows, and an oval face. He does not have a beard.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\063244.jpg:An attractive young man with bags under his eyes, big lips, blond hair, and no beard.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\031018.jpg:A young, attractive man with a 5 o'clock shadow, goatee, and straight hair.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\147609.jpg:a smiling man with 5 o'clock shadow, bags under eyes and blurry features
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\012525.jpg:A young person with attractive features, bangs, big lips, brown hair, heavy makeup, no beard, and wearing earrings.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\150193.jpg:A young woman with attractive features, arched eyebrows, high cheekbones, a pointy nose, and wavy black hair. She has heavy makeup, an oval face, and is wearing lipstick. She does not have a beard.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\128793.jpg:A young smiling man with high cheekbones, an oval face, and no beard.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\032011.jpg:A young woman with brown hair, high cheekbones, heavy makeup, a slightly open mouth, no beard, a smile, and wearing lipstick.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\000429.jpg:A young male with bangs, big lips, a big nose, and brown hair, without a beard.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\033887.jpg:A smiling man with bags under his eyes, a pointy nose, wearing a hat and a necktie.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\181302.jpg:A young male with black hair, bags under eyes, an oval face, straight hair, wearing a necktie, and no beard.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\140016.jpg:A male wearing a hat with big lips and a goatee.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\138208.jpg:A young person with blond hair, no beard, a pointy nose, and straight hair.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\171964.jpg:A young, attractive man with high cheekbones, a slightly open mouth, no beard, and a smiling expression.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\177836.jpg:A male with a goatee and sideburns.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\154257.jpg:A young woman with arched eyebrows, attractive features, bangs, big lips, black hair, bushy eyebrows, heavy makeup, no beard, and wearing lipstick.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\157993.jpg:A young, attractive man with high cheekbones, a slightly open mouth, no beard, and a smiling face. He has wavy hair and is wearing a necktie.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\186245.jpg:A young woman with arched eyebrows, attractive face, bangs, heavy makeup, high cheekbones, slightly open mouth, no beard, oval face, pale skin, pointy nose, rosy cheeks, smiling, wavy hair, wearing a hat, wearing lipstick.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\019404.jpg:A young woman with arched eyebrows, attractive appearance, heavy makeup, no beard, pointy nose, wavy hair, wearing lipstick, wearing a necklace.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\128400.jpg:An attractive young person with brown hair, bangs, big lips, a pointy nose, and straight hair, wearing lipstick and no beard.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\153622.jpg:A young attractive man with 5 o'clock shadow, black hair, bushy eyebrows, high cheekbones, a slightly open mouth, narrow eyes, an oval face, a smile, and straight hair. He has no beard.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\117272.jpg:A bald man with a big nose, wearing eyeglasses, without a beard, and with an oval face and receding hairline, is smiling.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\113894.jpg:A chubby man with bags under his eyes, a big nose, a double chin, gray hair, high cheekbones, a mustache, narrow eyes, and an oval face, smiling.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\089146.jpg:A young male without a beard in a blurry image.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\077222.jpg:A young man with arched eyebrows and brown hair, without a beard.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\032839.jpg:A young man with bangs, brown hair, high cheekbones, a slightly open mouth, narrow eyes, no beard, and a smiling expression.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\024641.jpg:A young woman with arched eyebrows, attractive, heavy makeup, high cheekbones, slightly open mouth, no beard, smiling, wavy hair, wearing earrings and lipstick.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\001279.jpg:A young attractive male with black hair, arched eyebrows, bushy eyebrows, bags under eyes, a big nose, and no beard.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\027299.jpg:A young woman with bushy eyebrows, heavy makeup, high cheekbones, a slightly open mouth, no beard, an oval face, a pointy nose, a smiling expression, wavy hair, and wearing lipstick.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\018705.jpg:A man with eyeglasses, gray hair, high cheekbones, no beard, a receding hairline, and straight hair.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\091624.jpg:An attractive woman with blond hair, heavy makeup, high cheekbones, a slightly open mouth, no beard, an oval face, and a smiling expression, with wavy hair and wearing lipstick.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\093857.jpg:A young male with bangs, bushy eyebrows, no beard, and straight hair.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\000690.jpg:A young man with bags under his eyes, bangs, a big nose, high cheekbones, a slightly open mouth, narrow eyes, no beard, a smiling face, wearing earrings.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\115080.jpg:A man with arched eyebrows, bags under eyes, bushy eyebrows, a goatee, and sideburns.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\047614.jpg:A young male with bags under his eyes, bangs, big lips, brown hair, bushy eyebrows, no beard, and straight hair.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\156576.jpg:An attractive young person with bags under their eyes, a big nose, high cheekbones, no beard, a smiling face, straight hair, wearing earrings and a necklace.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\117982.jpg:A young person with an oval face, big lips, a slightly open mouth, and no beard, wearing a hat and lipstick.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\196858.jpg:A young man with a receding hairline, wearing a necktie, with a 5 o'clock shadow, big lips, a mustache, a pointy nose, and sideburns.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\163062.jpg:A young woman with arched eyebrows, attractive, blond hair, brown hair, heavy makeup, no beard, oval face, wearing earrings, wearing lipstick, wearing necklace.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\005393.jpg:A young attractive man with bags under his eyes, a big nose, high cheekbones, a slightly open mouth, no beard, a smiling expression, wavy hair, and wearing earrings.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\165438.jpg:A young man with 5 o'clock shadow, bags under his eyes, a big nose, and gray hair, is smiling with his mouth slightly open. He is not wearing a beard but has sideburns and is also wearing a necktie.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\168963.jpg:A male with a goatee and sideburns, with straight hair.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\170171.jpg:A young woman with arched eyebrows, attractive blond hair, heavy makeup, high cheekbones, no beard, wavy hair, wearing lipstick.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\117148.jpg:A young woman with brown hair, high cheekbones, a slightly open mouth, no beard, an oval face, a smiling expression, straight hair, wearing earrings and lipstick.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\169074.jpg:A young woman with arched eyebrows, attractive features, big lips, a big nose, bushy eyebrows, heavy makeup, slightly open mouth, no beard, oval face, straight hair, wearing earrings, wearing lipstick, wearing a necklace.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\072979.jpg:A man with arched eyebrows, bags under eyes, bangs, big nose, brown hair, high cheekbones, mouth slightly open, no beard, smiling, wavy hair, wearing earrings and wearing a necklace.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\175213.jpg:A chubby man wearing eyeglasses and a hat with a goatee, mustache, and sideburns.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\098757.jpg:A young man with black hair, an oval face, slightly open mouth, wearing earrings and without a beard.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\176261.jpg:A young woman with arched eyebrows, attractive, bangs, brown hair, heavy makeup, high cheekbones, mouth slightly open, no beard, oval face, pointy nose, smiling, wavy hair, wearing lipstick.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\142064.jpg:A bald man with a big nose and a goatee.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\142636.jpg:An attractive young woman with black hair, heavy makeup, high cheekbones, a slightly open mouth, and a wavy hairstyle, smiling and without a beard.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\029736.jpg:A chubby man with high cheekbones, bags under his eyes, a big nose, black hair, and a double chin is smiling and wearing a necktie.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\022257.jpg:A woman with arched eyebrows, attractive, big lips, heavy makeup, high cheekbones, no beard, receding hairline, straight hair, wearing earrings and wearing lipstick.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\088082.jpg:A young woman with arched eyebrows, attractive, wearing bangs and brown hair, heavy makeup, oval face, wearing lipstick, and no beard.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\071580.jpg:An attractive young male with blond hair, high cheekbones, an oval face, and a slight smile. He has bags under his eyes and bangs, and his mouth is slightly open. He does not have a beard.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\007185.jpg:A young male with a big nose, black hair, wavy hair, and wearing eyeglasses. The image is blurry.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\110220.jpg:A young woman with attractive features, big lips, black hair, heavy makeup, high cheekbones, no beard, an oval face, pale skin, a smiling expression, wavy hair, and wearing lipstick.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\161863.jpg:A young woman with attractive features, black and brown hair, high cheekbones, an oval face, a pointy nose, and a wavy hairstyle. She is smiling and wearing heavy makeup, lipstick, and a necklace. She does not have a beard.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\089148.jpg:a person with bags under the eyes, big lips, big nose, no beard, wavy hair, wearing earrings and wearing a necklace
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\001299.jpg:An attractive young man with bags under his eyes, narrow eyes, no beard, and straight hair.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\037165.jpg:A young man with an oval face, high cheekbones, a slightly open mouth, and a receding hairline is smiling and does not have a beard. He also has a big nose.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\008225.jpg:A young male with a bald head and an oval face, having a 5 o'clock shadow, big lips, a big nose, chubby cheeks, a goatee, high cheekbones, slightly open mouth, and sideburns.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\009467.jpg:A young woman with attractive arched eyebrows, bangs, brown hair, heavy makeup, high cheekbones, a slightly open mouth, no beard, an oval face, rosy cheeks, a smiling expression, wavy hair, wearing earrings and lipstick.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\200413.jpg:A young woman with black hair, heavy makeup, high cheekbones, a slightly open mouth, narrow eyes, no beard, a pointy nose, a smiling expression, and wearing lipstick.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\180405.jpg:A young person with arched eyebrows and high cheekbones, slightly open mouth, no beard, smiling, and wearing earrings.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\092859.jpg:A male with bags under his eyes, a big nose, blurry image, and straight hair.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\040542.jpg:A young male with brown hair and bangs, no beard, and straight hair.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\001751.jpg:An attractive woman with bangs, blurry background, brown hair, heavy makeup, high cheekbones, slightly open mouth, no beard, smiling, wavy hair, wearing earrings and looks young.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\199622.jpg:An attractive woman with big lips, heavy makeup, high cheekbones, a slightly open mouth, narrow eyes, no beard, a pointy nose, rosy cheeks, a smiling face, straight or wavy hair, wearing earrings, wearing lipstick, and looking young.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\184006.jpg:A young woman with arched eyebrows, attractive features, big lips, blond hair, heavy makeup, no beard, oval face, pale skin, straight hair, and wearing lipstick.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\017070.jpg:A young, attractive woman with arched eyebrows, bushy eyebrows, heavy makeup, high cheekbones, no beard, wavy hair, and wearing lipstick.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\155671.jpg:A young, attractive woman with arched eyebrows, big lips, black hair, bushy eyebrows, heavy makeup, high cheekbones, a slightly open mouth, an oval face, a pointy nose, rosy cheeks, a smile, wavy hair, wearing lipstick, and no beard.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\004424.jpg:A young woman with arched eyebrows, attractive features, bags under her eyes, big lips, bushy eyebrows, heavy makeup, high cheekbones, slightly open mouth, no beard, oval face, pointy nose, smiling, wavy hair, wearing earrings, wearing lipstick.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\103138.jpg:A young woman with blonde hair and arched eyebrows, wearing lipstick and a necklace, with high cheekbones and attractive features, smiling and having heavy makeup but no beard, with big lips and wavy hair.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\148982.jpg:A young attractive male with a 5 o'clock shadow, brown hair, and sideburns.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\057573.jpg:An attractive young man with big nose, black hair, bushy eyebrows, a goatee, a mustache, pointy nose, sideburns, and straight hair.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\147826.jpg:A young man with brown hair, wearing eyeglasses and a necktie, with high cheekbones, a slightly open mouth, no beard, and a smiling expression.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\086070.jpg:A young woman with arched eyebrows, attractive face, big lips, black hair, heavy makeup, no beard, oval face, wavy hair, wearing earrings and lipstick.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\176914.jpg:A young male with a slightly open mouth and no beard, appearing blurry.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\068321.jpg:A young male with black hair and a 5 o'clock shadow, chubby with a slightly open mouth, smiling, and wearing a necktie, with wavy hair.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\157825.jpg:A young woman with attractive features, arched eyebrows, big lips, heavy makeup, high cheekbones, slightly open mouth, no beard, smiling, wavy hair, and wearing lipstick.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\070158.jpg:A young woman with arched eyebrows, attractive features, bangs, black hair, heavy makeup, slightly open mouth, no beard, oval face, pointy nose, smiling, wavy hair, wearing lipstick.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\152314.jpg:A young, attractive man with black hair and a slightly open mouth. He has narrow eyes, an oval face, and is smiling. He has wavy hair and is wearing earrings. He does not have a beard.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\044791.jpg:A young, attractive man with arched eyebrows, high cheekbones, bags under his eyes, black hair, a slightly open mouth, and a smiling expression. He does not have a beard.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\009232.jpg:A young attractive woman with arched eyebrows, black hair, heavy makeup, high cheekbones, no beard, oval face, pointy nose, rosy cheeks, smiling, wavy hair, wearing earrings, wearing lipstick.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\200496.jpg:A chubby man with bags under his eyes, big lips, a big nose, sideburns, and wavy hair, is smiling with his mouth slightly open and narrow eyes.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\054217.jpg:A young woman with attractive features, big lips, black hair, heavy makeup, high cheekbones, no beard, a pointy nose, smiling, wavy hair, wearing lipstick, and a necklace.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\140608.jpg:A young person with bangs, a big nose, blond hair, high cheekbones, a slightly open mouth, no beard, and a smiling expression.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\166018.jpg:a man with bangs, blurry brown hair, and straight hair, without a beard
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\175957.jpg:A young woman with attractive features, brown hair, heavy makeup, high cheekbones, no beard, smiling, wavy hair, and wearing lipstick.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\200809.jpg:A man with big lips, big nose, black hair, bushy eyebrows, mouth slightly open, oval face, and a receding hairline, without a beard.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\112182.jpg:A young woman with arched eyebrows, attractive face, big lips, brown hair, heavy makeup, high cheekbones, slightly open mouth, no beard, pointy nose, smiling, straight hair, wearing earrings, wearing lipstick, wearing necklace.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\149821.jpg:A young woman with attractive features, bangs, black hair, heavy makeup, high cheekbones, no beard, an oval face, a smiling expression, wearing earrings, wearing lipstick.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\128918.jpg:A person with a big nose, black hair, bushy eyebrows, chubby face, double chin, heavy makeup, high cheekbones, slightly open mouth, narrow eyes, no beard, receding hairline, smiling, wearing earrings, and wearing lipstick.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\097804.jpg:A young person with big lips and blond hair, without a beard.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\172915.jpg:A young man with black hair and brown hair, bushy eyebrows, high cheekbones, slightly open mouth, sideburns, and a smiling expression, with bags under his eyes.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\200541.jpg:A woman with arched eyebrows, attractive, bangs, blonde hair, heavy makeup, high cheekbones, mouth slightly open, no beard, pointy nose, rosy cheeks, smiling, wavy hair, wearing earrings, wearing lipstick, and wearing a necklace.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\194736.jpg:A young attractive woman with black hair, heavy makeup, high cheekbones, a slightly open mouth, no beard, an oval face, a smile, wavy hair, wearing lipstick, wearing a necklace.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\081150.jpg:A young man with a big nose, wearing a hat and without a beard.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\039439.jpg:A smiling male with an oval face, pale skin, a receding hairline, and wearing a necktie, without a beard.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\143016.jpg:A young woman with arched eyebrows, attractive features, bangs, brown hair, heavy makeup, high cheekbones, slightly open mouth, no beard, rosy cheeks, smiling, wearing lipstick, and a necklace.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\185957.jpg:A young attractive person with black hair, heavy makeup, no beard, and wearing lipstick.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\042884.jpg:A young person with black hair, not wearing a beard, and wearing a hat.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\103467.jpg:A male with an oval face.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\074858.jpg:A young woman with blond hair, heavy makeup, a slightly open mouth, no beard, an oval face, rosy cheeks, a smiling expression, and straight hair.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\143838.jpg:a man with bags under his eyes, a big nose, brown hair, a double chin, high cheekbones, no beard, and wearing a necktie.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\103191.jpg:A young woman with attractive features, bangs, big lips, brown hair, heavy makeup, high cheekbones, no beard, smiling, and wearing lipstick.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\002916.jpg:A woman with arched eyebrows, brown hair, heavy makeup, high cheekbones, slightly open mouth, no beard, smiling, wavy hair, wearing earrings and lipstick.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\064040.jpg:A young, blond-haired man with high cheekbones, narrow eyes, big lips, and a slightly open mouth is smiling and has wavy hair. He does not have a beard and his nose is big. The image is slightly blurry.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\168312.jpg:A young, attractive man with brown hair, wavy hair, bushy eyebrows, high cheekbones, narrow eyes, a big nose, a slightly open mouth, and a smile. He has a 5 o'clock shadow and is wearing a necktie.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\132212.jpg:a bald man with bags under his eyes and a big, pointy nose, with a receding hairline and no beard.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\076074.jpg:A young woman with black hair, heavy makeup, high cheekbones, a slightly open mouth, no beard, an oval face, a smile, straight hair, wearing earrings and lipstick.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\158552.jpg:An attractive young woman with arched eyebrows, big lips, blond hair, heavy makeup, high cheekbones, no beard, an oval face, a pointy nose, rosy cheeks, a smiling expression, straight hair, wearing lipstick.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\200502.jpg:A young woman with attractive features, brown hair, heavy makeup, high cheekbones, a slightly open mouth, no beard, an oval face, a pointy nose, rosy cheeks, a smiling expression, wearing earrings and lipstick.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\106847.jpg:a chubby man with 5 o'clock shadow, wearing eyeglasses and a necktie
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\170733.jpg:A young male with black hair, a 5 o'clock shadow, bags under his eyes, a big and pointy nose, high cheekbones, a slightly open mouth, a smiling expression, and straight hair.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\179203.jpg:An attractive young woman with arched eyebrows, heavy makeup, wavy hair, wearing earrings, wearing lipstick, and no beard.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\064403.jpg:A young woman with arched eyebrows, attractive, black hair, bushy eyebrows, heavy makeup, high cheekbones, slightly open mouth, no beard, oval face, pointy nose, rosy cheeks, smiling, straight hair, wearing earrings, wearing lipstick.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\188339.jpg:An attractive young man with brown hair, bangs, no beard, and straight hair.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\187442.jpg:A young man with black hair, high cheekbones, narrow eyes, bags under his eyes, and a slightly open mouth, is smiling.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\143007.jpg:A young woman with attractive features, brown hair, heavy makeup, no beard, wavy hair, and wearing lipstick.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\175859.jpg:A young bald man with big lips, a slightly open mouth, no beard, and a pointy nose.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\012945.jpg:A young woman with arched eyebrows, attractive features, big lips, brown hair, heavy makeup, high cheekbones, a slightly open mouth, no beard, an oval face, a smile, straight hair, wearing earrings, wearing lipstick.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\068881.jpg:A young attractive person with bangs, big lips, no beard, a pointy nose, wavy hair, and wearing lipstick.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\013328.jpg:A person with bangs and brown hair, wearing heavy makeup, with high cheekbones, no beard, wavy hair, wearing earrings, wearing lipstick, and wearing a necklace.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\125347.jpg:a man with arched eyebrows, bags under his eyes, big lips, gray hair, wearing a necktie
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\168291.jpg:A young woman with attractive features, brown hair, heavy makeup, a slightly open mouth, no beard, an oval face, a smile, and wearing lipstick.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\115788.jpg:A young woman with arched eyebrows, attractive, blond hair, heavy makeup, high cheekbones, mouth slightly open, no beard, oval face, pointy nose, smiling, wavy hair, wearing lipstick.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\068653.jpg:A person with arched eyebrows, attractive appearance, bangs, high cheekbones, no beard, wearing earrings, and wearing lipstick.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\026349.jpg:A chubby man with bags under his eyes, a big nose, black hair, a double chin, eyeglasses, high cheekbones, and a slight smile, wearing a necktie and not having a beard.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\107207.jpg:A man with bags under his eyes, gray hair, a slightly open mouth, and no beard.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\033274.jpg:A young woman with arched eyebrows, attractive features, bags under her eyes, big lips, a big nose, black hair, bushy eyebrows, heavy makeup, high cheekbones, her mouth slightly open, no beard, a pointy nose, rosy cheeks, smiling, wavy hair, wearing earrings, wearing lipstick.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\012873.jpg:An attractive young woman with blond hair, an oval face, straight hair, and wearing lipstick.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\038838.jpg:A chubby man with blond hair and a double chin, slightly open mouth, pale skin, and a smile, wearing a necktie and having straight hair, without a beard.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\052271.jpg:A young, attractive woman with arched eyebrows, blond hair, bushy eyebrows, heavy makeup, slightly open mouth, no beard, wavy hair, and wearing lipstick.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\157054.jpg:A young woman with attractive features, blond hair, high cheekbones, and wavy hair. She is wearing heavy makeup, lipstick, and has bangs. She does not have a beard.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\114597.jpg:An attractive young man with bangs, big lips, bushy eyebrows, narrow eyes, no beard, a pointy nose, and wavy hair.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\078218.jpg:A young male with blurry bushy eyebrows, a slightly open mouth, and no beard.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\156380.jpg:An attractive young woman with blond hair, bangs, big lips, heavy makeup, a slightly open mouth, no beard, an oval face, a smiling expression, straight hair, wearing lipstick.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\010528.jpg:An attractive young person with black hair, slightly open mouth, narrow eyes, no beard, pointy nose, and wearing lipstick.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\194127.jpg:A young person with black hair, no beard, a pointy nose, and wearing lipstick.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\043025.jpg:A young attractive woman with arched eyebrows, black hair, heavy makeup, an oval face, straight hair, and wearing lipstick.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\163969.jpg:A young attractive man with wavy hair, wearing a necklace and bangs, and having an oval face and no beard.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\052090.jpg:A young male with high cheekbones, narrow eyes, bags under his eyes, and a slightly open mouth, smiling in a blurry image.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\132009.jpg:A young, attractive woman with arched eyebrows, big lips, brown hair, bushy eyebrows, heavy makeup, high cheekbones, slightly open mouth, narrow eyes, no beard, pointy nose, smiling, wavy hair, wearing lipstick.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\118225.jpg:A young attractive bald man with a big nose, bushy eyebrows, narrow eyes, and no beard.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\044130.jpg:A young, attractive man with brown hair, an oval face, a pointy nose, and straight hair, and no beard.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\163537.jpg:A young person with attractive features, blond and wavy hair, high cheekbones, no beard, and a smiling face, wearing lipstick.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\193854.jpg:An attractive young man with brown hair, no beard, a pointy nose, and straight hair.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\014138.jpg:A young male with bags under his eyes, bangs, a big nose, brown hair, high cheekbones, no beard, smiling, and wavy hair.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\157758.jpg:A smiling male with a receding hairline, big nose, and blurry image.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\189317.jpg:An attractive young woman with arched eyebrows, bags under her eyes, blond hair, heavy makeup, high cheekbones, a slightly open mouth, narrow eyes, no beard, a pointy nose, wavy hair, wearing lipstick.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\099168.jpg:A young, attractive woman with arched eyebrows, heavy makeup, wavy hair, wearing earrings and lipstick, and no beard.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\019931.jpg:A smiling, gray-haired male with bags under his eyes, a big nose, a double chin, and a slightly open mouth, not wearing a beard but wearing a necktie.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\180826.jpg:A young man with a receding hairline and no beard, captured in a blurry image.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\021308.jpg:A young woman with arched eyebrows, big lips, black hair, narrow eyes, and wearing lipstick.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\091081.jpg:A male with bags under his eyes, gray hair, a slightly open mouth, no beard, and a pointy nose.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\116337.jpg:A young woman with blond hair, big lips, heavy makeup, slightly open mouth, narrow eyes, no beard, wavy hair, and wearing lipstick.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\108910.jpg:A chubby man with bags under his eyes, a big nose, black hair, a double chin, high cheekbones, slightly open mouth, narrow eyes, no beard, and a smiling face, wearing a necktie.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\043165.jpg:A young man with high cheekbones, slightly open mouth, and wavy hair, smiling and not having a beard, in a blurry image.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\020823.jpg:A young woman with arched eyebrows, attractive features, a big nose, black hair, bushy eyebrows, heavy makeup, no beard, wavy hair, wearing earrings, wearing lipstick, wearing a necklace.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\028828.jpg:A young woman with arched eyebrows, attractive features, bags under her eyes, bangs, heavy makeup, wavy hair, wearing lipstick, and no beard.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\040835.jpg:A young woman with attractive features, blond hair, heavy makeup, high cheekbones, no beard, a smiling expression, and wearing lipstick.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\010974.jpg:A young male with 5 o'clock shadow, big lips, black hair, bushy eyebrows, eyeglasses, a pointy nose, and straight hair.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\112317.jpg:An attractive young person with bags under their eyes, big lips, high cheekbones, no beard, and a smiling face. They have wavy hair and are wearing earrings and lipstick.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\044940.jpg:A young attractive woman with bangs, heavy makeup, a slightly open mouth, no beard, an oval face, a pointy nose, wearing earrings and lipstick.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\069369.jpg:A young, smiling male with high cheekbones, bushy eyebrows, a receding hairline, an oval face, bags under eyes, big lips, a big nose, arched eyebrows, a slight open mouth, a double chin, a goatee, and wearing a necktie.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\198097.jpg:A woman with arched eyebrows, big lips, a big nose, black hair, heavy makeup, narrow eyes, no beard, a receding hairline, wavy hair, wearing earrings, wearing lipstick, and wearing a necklace.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\162371.jpg:A chubby man with bags under his eyes, a big nose, a double chin, gray hair, and wearing a necktie.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\051375.jpg:A young man with black hair, wearing eyeglasses, having high cheekbones, a slightly open mouth, no beard, and a smiling expression.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\142779.jpg:A young woman with attractive features, brown hair, heavy makeup, slightly open mouth, no beard, oval face, pointy nose, wearing earrings and lipstick.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\042981.jpg:An attractive woman with bags under her eyes, big lips, blond hair, heavy makeup, high cheekbones, a slightly open mouth, no beard, a pointy nose, smiling, wavy hair, wearing earrings and wearing lipstick.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\078980.jpg:A young man with an oval face, wearing a hat, with his mouth slightly open and no beard.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\128451.jpg:An attractive young woman with arched eyebrows, bags under her eyes, big lips, black hair, bushy eyebrows, heavy makeup, high cheekbones, a slightly open mouth, no beard, a pointy nose, rosy cheeks, a smiling face, wavy hair, wearing earrings, wearing lipstick.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\139580.jpg:A young woman with arched eyebrows, attractive appearance, heavy makeup, no beard, wearing earrings, wearing lipstick, wearing a necklace.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\151067.jpg:A male with bags under his eyes, slightly opened mouth, no beard, pointy nose, straight hair, and wearing a necktie.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\105199.jpg:A young, attractive man with a 5 o'clock shadow, bags under his eyes, bushy eyebrows, narrow eyes, no beard, and wavy hair.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\011821.jpg:A chubby woman with big lips and high cheekbones, wearing heavy makeup and a necklace, with wavy hair and a slightly open mouth, smiling and wearing earrings and lipstick, and without a beard.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\011460.jpg:A chubby man with bags under his eyes, a big nose, a double chin, and a goatee, wearing a hat and a mustache.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\199329.jpg:A young attractive person with wavy hair, wearing lipstick, and heavy makeup, without a beard and with bangs.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\161014.jpg:A young man with black hair, a big nose, wearing eyeglasses, with a 5 o'clock shadow, slighty open mouth, narrow eyes, smiling, and wavy hair.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\075233.jpg:An attractive man with a 5 o'clock shadow, big nose, black hair, high cheekbones, slightly open mouth, and a smiling expression, with wavy hair.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\026404.jpg:A young, attractive, smiling male with a 5 o'clock shadow, arched eyebrows, bags under eyes, bangs, big lips and nose, black hair, wavy hair, and wearing a necktie.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\193295.jpg:A young woman with blond hair, high cheekbones, rosy cheeks, and a slight smile. She is wearing heavy makeup, has a pointy nose, and is not bearded. She has attractive features and is wearing lipstick.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\088010.jpg:a young male with bangs, blurry image, narrow eyes and no beard.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\116724.jpg:A young man with arched eyebrows, big lips, black hair, slightly open mouth, no beard and wavy hair.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\156535.jpg:A man with a big nose, eyeglasses, gray hair, high cheekbones, mouth slightly open, no beard, pointy nose, receding hairline, and wearing a necktie.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\182996.jpg:A smiling woman with bangs, big lips, a big nose, blond hair, heavy makeup, high cheekbones, a slightly open mouth, no beard, straight hair, wearing earrings and lipstick.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\153834.jpg:A smiling male with high cheekbones, a receding hairline, gray hair, bags under eyes, a big nose, a chubby face, a double chin, and wearing a necktie.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\099260.jpg:A young and attractive woman with arched eyebrows, big lips, bushy eyebrows, heavy makeup, high cheekbones, no beard, straight hair, and wearing lipstick.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\127935.jpg:A young woman with arched eyebrows, big lips, black hair, heavy makeup, high cheekbones, a slightly open mouth, no beard, smiling, wavy hair, wearing earrings, wearing lipstick, wearing a necklace.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\129324.jpg:A young, attractive man with high cheekbones, a big nose, bags under his eyes, and a slightly open mouth, smiling. He does not have a beard and the image is slightly blurry.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\186192.jpg:A young person with black hair, heavy makeup, wavy hair, and wearing lipstick, but no beard.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\167854.jpg:A man with big lips, black hair, bushy eyebrows, a goatee, slightly open mouth, and sideburns.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\165792.jpg:An attractive young woman with arched eyebrows, big nose, brown hair, heavy makeup, high cheekbones, mouth slightly open, oval face, smiling, straight hair, wearing earrings, wearing lipstick, wearing necklace.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\050966.jpg:A young woman with bangs, big lips, brown hair, heavy makeup, narrow eyes, no beard, a pointy nose, smiling, straight hair, wearing lipstick and a necklace.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\085032.jpg:a young woman with blond hair, heavy makeup, slightly open mouth, no beard, wavy hair, and wearing lipstick
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\186767.jpg:A young woman with arched eyebrows, attractive features, bags under her eyes, big lips, high cheekbones, slightly open mouth, no beard, smiling, wearing earrings, wearing lipstick, wearing a necklace.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\110188.jpg:An attractive young woman with arched eyebrows, big lips, heavy makeup, high cheekbones, a slightly open mouth, no beard, an oval face, a pointy nose, a smile, wavy hair, wearing lipstick, wearing a necklace.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\036408.jpg:A young man with big lips and a receding hairline, without a beard, and the image is slightly blurry.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\133418.jpg:A smiling male with high cheekbones, bags under his eyes, a slightly open mouth, and no beard.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\060281.jpg:A young and attractive person with arched eyebrows, bags under the eyes, big lips, brown hair, no beard, a pointy nose, a receding hairline, and wearing lipstick.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\099853.jpg:A young woman with arched eyebrows, attractive, big lips, heavy makeup, slightly open mouth, no beard, pointy nose, wavy hair, wearing lipstick.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\154532.jpg:A young man with blond hair, wearing eyeglasses and a necklace, with high cheekbones and an oval face, a slightly open mouth, no beard, a pointy nose, and straight hair.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\070557.jpg:A woman with bangs, brown hair, heavy makeup, high cheekbones, slightly open mouth, no beard, smiling, wavy hair, wearing earrings, wearing lipstick, and wearing a necklace.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\119971.jpg:A young woman with attractive features, blond hair, heavy makeup, high cheekbones, a slightly open mouth, no beard, a pointy nose, rosy cheeks, a smiling expression, and wearing lipstick.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\168027.jpg:A young man with bangs, slightly open mouth and no beard.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\141884.jpg:A young man with black hair, wearing eyeglasses, with high cheekbones and a receding hairline, slightly opening his mouth and smiling.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\113354.jpg:A young woman with arched eyebrows, attractive blond hair, heavy makeup, no beard, a pointy nose, wavy hair, wearing lipstick.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\122764.jpg:A young male with bangs and no beard.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\173036.jpg:An attractive young person with pale skin, wavy hair, and no beard.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\152643.jpg:A chubby man with black hair and high cheekbones, wearing a necktie and with bags under his eyes, his mouth slightly open, and no beard. He has straight hair.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\098585.jpg:An attractive young woman with arched eyebrows, heavy makeup, pale skin, and wavy hair. She is wearing earrings, lipstick, and a necklace.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\064155.jpg:An attractive young woman with brown hair, heavy makeup, high cheekbones, an oval face, and a pointy nose is smiling with her mouth slightly open. She is not wearing a beard and is wearing lipstick.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\170309.jpg:A young woman with attractive features, black hair, bushy eyebrows, heavy makeup, high cheekbones, an oval face, a smiling expression, straight hair, wearing earrings, wearing lipstick.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\167910.jpg:A young, attractive male with an oval face wearing a hat.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\065539.jpg:A young man with blurry, brown hair, narrow eyes, no beard, a pointy nose, and wearing a hat.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\085312.jpg:A young, attractive man with bags under his eyes, a slightly open mouth, no beard, a pointy nose, and a smiling expression.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\022554.jpg:a young smiling male with bags under eyes, big lips, black hair, high cheekbones, mouth slightly open, no beard, receding hairline
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\169456.jpg:A person with blond and gray hair, high cheekbones, narrow eyes, no beard, and pale skin.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\142595.jpg:An attractive woman with bags under her eyes, bangs, big lips, blond hair, heavy makeup, high cheekbones, slightly open mouth, no beard, pointy nose, smiling, wavy hair, wearing earrings, wearing lipstick, and looking young.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\037259.jpg:A male with a big nose, wearing eyeglasses and a necktie, with gray hair, his mouth slightly open and no beard.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\089765.jpg:A young, attractive woman with arched eyebrows, big lips, heavy makeup, no beard, a pointy nose, wavy hair, and wearing lipstick.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\049160.jpg:A young woman with arched eyebrows, attractive features, big lips, blond hair, heavy makeup, no beard, oval face, pale skin, pointy nose, and wearing lipstick.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\170626.jpg:A young woman with arched eyebrows, bags under her eyes, big lips, a big nose, black hair, heavy makeup, high cheekbones, her mouth slightly open, no beard, an oval face, a receding hairline, smiling, wavy hair, wearing earrings, wearing lipstick.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\089905.jpg:A young man with 5 o'clock shadow, wavy hair, wearing a necklace and without a beard.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\123404.jpg:A young woman with arched eyebrows, attractive features, bangs, big lips, heavy makeup, high cheekbones, slightly open mouth, narrow eyes, no beard, smiling, straight hair, wearing lipstick, wearing a necklace.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\193398.jpg:A young male with bangs, big lips, no beard, pale skin, and wavy hair.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\113655.jpg:A young woman with arched eyebrows, attractive blonde hair, heavy makeup, high cheekbones, a slightly open mouth, rosy cheeks, a smiling face, wavy hair, wearing earrings, wearing lipstick, wearing a necklace.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\058918.jpg:A young male with a 5 o'clock shadow, attractive appearance, brown hair, eyeglasses, goatee, slightly open mouth, sideburns, smiling, and straight hair.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\148368.jpg:A smiling male with bags under his eyes, big lips, a big nose, black hair, bushy eyebrows, high cheekbones, a slightly open mouth, and an oval face.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\111639.jpg:A young person with blond hair, no beard, straight hair, and wearing lipstick.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\068582.jpg:A young, attractive man with a 5 o'clock shadow, bags under his eyes, big lips, bushy eyebrows, a slightly open mouth, narrow eyes, a pointy nose, a smile, wavy hair, wearing a necktie.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\117181.jpg:A young man with an oval face and wavy hair, without a beard.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\180494.jpg:A young man with arched eyebrows, big lips, black hair, no beard, pointy nose, and wavy hair.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\069973.jpg:A young attractive woman with blond hair, heavy makeup, high cheekbones, a slightly open mouth, no beard, an oval face, a pointy nose, a smiling expression, wearing earrings and lipstick.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\012291.jpg:A young attractive woman with blond hair, high cheekbones, an oval face, and a slight smile. She has wavy hair and is wearing lipstick.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\101015.jpg:A young woman with attractive features, brown hair, high cheekbones, no beard, and a smiling face, wearing lipstick.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\026868.jpg:A young and attractive blond-haired man with arched eyebrows, a pointy nose, and no beard.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\199367.jpg:An attractive young person with a receding hairline and no beard, wearing earrings, lipstick, and a necklace.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\081811.jpg:A woman with arched eyebrows, blond hair, eyeglasses, high cheekbones, slightly open mouth, no beard, smiling, wavy hair, wearing earrings, and wearing lipstick.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\192111.jpg:A young woman with arched eyebrows, attractive features, big lips, heavy makeup, high cheekbones, no beard, a pointy nose, wavy hair, wearing earrings, wearing lipstick, wearing a necklace.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\161225.jpg:a bald man with a receding hairline and a 5 o'clock shadow, wearing a necklace, with bags under his eyes and a double chin, and high cheekbones, with big lips, a big nose, narrow eyes, and a pointy nose, smiling with his mouth slightly open.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\198072.jpg:A young man with arched eyebrows, bags under eyes, blurry image, high cheekbones, slightly open mouth, narrow eyes, no beard, smiling, wearing a hat.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\191876.jpg:A smiling man with bags under his eyes, a big nose, a double chin, no beard, a pointy nose, and wavy hair.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\127987.jpg:A young woman with attractive features, brown hair, heavy makeup, high cheekbones, a slightly open mouth, no beard, an oval face, a pointy nose, rosy cheeks, a smiling expression, wavy hair, wearing lipstick.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\016351.jpg:An attractive young woman with heavy makeup, high cheekbones, a slightly open mouth, no beard, an oval face, a pointy nose, and a smiling expression. She has wavy hair and is wearing lipstick.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\015524.jpg:A chubby man with a big nose and double chin wearing eyeglasses and having gray hair and high cheekbones. His mouth is slightly open and he has straight hair.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\172741.jpg:A young attractive male with a 5 o'clock shadow and brown hair is smiling and has straight hair.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\198280.jpg:A young woman with arched eyebrows, big lips, heavy makeup, high cheekbones, no beard, receding hairline, straight hair, wearing lipstick.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\003816.jpg:A smiling male with a big nose, chubby face, wearing eyeglasses, and a goatee, with sideburns.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\004155.jpg:A young man with black hair, an oval face, and a slightly open mouth, without a beard.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\185987.jpg:a smiling chubby man with a big nose, black hair, a double chin, wearing eyeglasses, having high cheekbones, a slightly open mouth, a mustache, and straight hair.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\133107.jpg:A young woman with arched eyebrows, attractive features, big lips, black hair, heavy makeup, slightly open mouth, no beard, wearing lipstick.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\118215.jpg:A young person with heavy makeup, pale skin, and wearing lipstick, but no beard.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\195165.jpg:A young attractive woman with blond hair, high cheekbones, big lips, bags under her eyes, a slight open mouth, and a smile. She is not wearing a beard but is wearing lipstick.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\012287.jpg:a male without beard
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\128328.jpg:A young person with arched eyebrows, black hair, bushy eyebrows, heavy makeup, no beard, and wearing lipstick.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\063902.jpg:A smiling man with gray hair, high cheekbones, and a big nose, with wavy hair and no beard.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\005033.jpg:A young man with black hair, bushy eyebrows, a goatee, a mustache, and bags under his eyes, smiling with his mouth slightly open.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\063150.jpg:A young person with big lips and no beard.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\093000.jpg:An attractive young person with wavy hair, bangs, an oval face, pale skin, and no beard.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\192517.jpg:A young woman with attractive features, brown hair, heavy makeup, high cheekbones, and a slightly open mouth. She has an oval face, a smile on her face, and straight, wavy hair. She is not wearing a beard and is wearing lipstick.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\080942.jpg:A young, attractive man with bushy eyebrows, high cheekbones, and a big nose, smiling with his mouth slightly open. He has black hair and a beard. He has bags under his eyes and an oval face. He also has straight hair.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\183219.jpg:A young attractive male with a slight open mouth, narrow eyes, no beard, oval face, pointy nose, and a straight hair, who is smiling.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\154547.jpg:A young attractive woman with black hair, high cheekbones, a slightly open mouth, no beard, an oval face, a smiling expression, straight hair, and wearing lipstick.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\130289.jpg:A young woman with attractive features, big lips, brown hair, heavy makeup, no beard, oval face, wavy hair, and wearing lipstick.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\109428.jpg:A young woman with attractive features, big lips, heavy makeup, high cheekbones, no beard, oval face, pointy nose, receding hairline, rosy cheeks, a smile, straight hair, wearing earrings and lipstick.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\034819.jpg:An attractive woman with brown hair, heavy makeup, high cheekbones, no beard, an oval face, and a smiling expression, wearing lipstick.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\189932.jpg:A young man with brown hair and wavy hair, wearing eyeglasses, with a slightly open mouth and an oval face, smiling and without a beard.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\047402.jpg:A young male with wavy hair and high cheekbones, wearing bangs and smiling with his mouth slightly open.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\030131.jpg:A young attractive woman with brown hair, bangs, heavy makeup, wavy hair, and wearing lipstick. She has no beard.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\200483.jpg:An attractive young woman with brown hair, heavy makeup, narrow eyes, no beard, pointy nose, wavy hair, and wearing lipstick.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\067900.jpg:A young woman with arched eyebrows, attractive, blond hair, heavy makeup, no beard, pointy nose, wearing lipstick.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\004030.jpg:A young attractive woman with arched eyebrows, big lips, black hair, heavy makeup, high cheekbones, an oval face, a pointy nose, and a smiling expression. She is also wearing lipstick and has no beard.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\202014.jpg:A smiling man with bags under his eyes, a big nose, a double chin, a slightly open mouth, no beard, and straight hair.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\032749.jpg:An attractive woman with arched eyebrows, bangs, heavy makeup, high cheekbones, a slightly open mouth, no beard, a pointy nose, a smiling expression, wavy hair, and wearing lipstick.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\120301.jpg:A young woman with black hair and bangs, wearing heavy makeup and lipstick, smiling, with wavy hair and a necklace, and without a beard.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\136491.jpg:A young attractive man with brown hair, a slight smile, and a slightly open mouth, with a 5 o'clock shadow and an oval face.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\020369.jpg:An attractive young woman with bangs, heavy makeup, a slightly open mouth, no beard, a pointy nose, a smiling expression, straight hair, and wearing lipstick.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\014564.jpg:An attractive man with big nose, blond hair, eyeglasses, high cheekbones, no beard, pointy nose, smiling and straight hair.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\096708.jpg:A young woman with attractive features, bangs, heavy makeup, high cheekbones, an oval face, a smiling expression, wearing earrings and lipstick, and without a beard.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\095027.jpg:a young man with a slightly open mouth, no beard, and a pointy nose
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\021663.jpg:an attractive black-haired man with a 5 o'clock shadow
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\201893.jpg:A young person with big lips, blurry image, heavy makeup, no beard, wavy hair, wearing earrings, wearing lipstick, wearing necklace.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\122533.jpg:A young, attractive male with 5 o'clock shadow, bags under his eyes, a big nose, bushy eyebrows, straight hair, and no beard.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\082091.jpg:A young man with 5 o'clock shadow, bushy eyebrows, high cheekbones, and a slightly open mouth is smiling while wearing a hat.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\049731.jpg:A young chubby person wearing earrings and without a beard.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\097951.jpg:A young man with a slightly open mouth and no beard.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\187757.jpg:A young attractive man with brown hair and no beard.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\033727.jpg:A young male with attractive features, bags under his eyes, a big and pointy nose, pale skin, wavy hair, and no beard.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\088087.jpg:A young woman with arched eyebrows, attractive, wearing bangs and brown hair, heavy makeup, high cheekbones, slightly open mouth, no beard, oval face, pointy nose, rosy cheeks, smiling, wavy hair, wearing lipstick.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\158327.jpg:A young, attractive man with brown hair, bushy eyebrows, high cheekbones, a slightly open mouth, narrow eyes, and an oval face, smiling and with straight hair. He does not have a beard.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\166732.jpg:A young male without beard in a blurry image.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\032664.jpg:A young woman with arched eyebrows, attractive, big lips, blond hair, heavy makeup, slightly open mouth, no beard, straight hair, wearing lipstick and a necklace.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\192535.jpg:A young woman with black hair, high cheekbones, a slightly open mouth, no beard, an oval face, a smile, wavy hair, wearing earrings and lipstick.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\049495.jpg:A young man with brown hair, a slightly open mouth, and a receding hairline, without a beard.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\161351.jpg:A young, attractive man with black hair, bushy eyebrows, narrow eyes, a pointy nose, and straight hair. He has a 5 o'clock shadow and bags under his eyes.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\068986.jpg:A young woman with attractive features, brown hair, heavy makeup, no beard, oval face, wavy hair, wearing lipstick.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\040446.jpg:A young attractive person with high cheekbones, a big nose, a slightly open mouth, no beard, a smiling face, wearing earrings, wearing a hat, wearing lipstick.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\104460.jpg:A young, attractive woman with bangs, big lips, heavy makeup, high cheekbones, a slightly open mouth, no beard, and a smiling face. She has straight hair, is wearing lipstick and a necklace.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\055539.jpg:A young woman with blond hair, high cheekbones, and a smiling face. She is wearing heavy makeup and lipstick. She has an oval face and is attractive. She does not have a beard.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\069019.jpg:A young man with high cheekbones, bags under his eyes, a slightly open mouth, no beard, a receding hairline, and a smile.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\118334.jpg:A young, attractive man with bushy eyebrows, a slightly open mouth, no beard, a pointy nose, and wavy hair.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\011180.jpg:A young, attractive man with arched eyebrows, black hair, a slightly open mouth, and no beard.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\037293.jpg:A young woman with arched eyebrows, attractive and heavy makeup. She has big lips and bushy eyebrows. Her face is oval-shaped and she has wavy hair. She is wearing earrings and lipstick. She does not have a beard.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\154925.jpg:A young man with 5 o'clock shadow, black hair, eyeglasses, no beard, oval face, pointy nose, and straight hair.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\160184.jpg:A chubby man with bags under his eyes, a big nose, a double chin, and gray hair. He has high cheekbones and a receding hairline. He is smiling and wearing a necktie. He does not have a beard.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\083416.jpg:A smiling man with blurry, brown hair, slightly open mouth, narrow eyes, and no beard.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\178336.jpg:A person with bags under eyes, big nose, blurry image, double chin, gray hair, high cheekbones, mouth slightly open, no beard, smiling, wearing earrings, wearing lipstick, and wearing a necklace.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\113658.jpg:A man with 5 o'clock shadow, bags under eyes, big lips, big nose, chubby, double chin, goatee, high cheekbones, mouth slightly open, sideburns, and smiling.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\066794.jpg:A young woman with arched eyebrows, attractive, big lips, heavy makeup, high cheekbones, narrow eyes, no beard, oval face, rosy cheeks, smiling, straight hair, wearing earrings, wearing lipstick.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\091390.jpg:A young man with bushy eyebrows, wearing eyeglasses and smiling with his mouth slightly open. He has high cheekbones and straight hair, and is clean-shaven.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\069525.jpg:An attractive young person with brown hair, bangs, big lips, an oval face, and straight hair, wearing lipstick and no beard.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\182948.jpg:A young woman with attractive features, brown hair, heavy makeup, no beard, an oval face, straight hair, and wearing lipstick.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\093371.jpg:An attractive young woman with arched eyebrows, big lips, brown hair, heavy makeup, high cheekbones, a slightly open mouth, no beard, an oval face, a pointy nose, rosy cheeks, a smiling expression, wavy hair, wearing earrings, wearing lipstick, wearing a necklace.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\140004.jpg:A young woman with arched eyebrows, attractive appearance, black hair, bushy eyebrows, heavy makeup, high cheekbones, slightly open mouth, no beard, oval face, receding hairline, rosy cheeks, smiling, wearing earrings and lipstick.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\156371.jpg:A young woman with arched eyebrows, attractive features, black hair, heavy makeup, high cheekbones, a slightly open mouth, no beard, an oval face, a pointy nose, rosy cheeks, a smiling expression, wavy hair, wearing earrings, wearing lipstick, wearing a necklace.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\005943.jpg:A male with arched eyebrows, brown hair, no beard, and a pointy nose
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\166808.jpg:A person with bangs and blond hair, slightly open mouth, no beard, smiling, and wearing earrings.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\195752.jpg:A young male with big lips, big nose, black hair, oval face, straight hair, wearing a necktie, and no beard.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\142458.jpg:A young woman with arched eyebrows, attractive features, big lips, heavy makeup, high cheekbones, slightly open mouth, oval face, receding hairline, smiling, wearing lipstick
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\139560.jpg:An attractive young woman with heavy makeup, slightly open mouth, no beard, and wavy hair.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\136005.jpg:A young and attractive person with arched eyebrows, big lips, brown hair, bushy eyebrows, heavy makeup, high cheekbones, no beard, pointy nose, and wearing lipstick.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\037320.jpg:An attractive young woman with brown hair, heavy makeup, no beard, oval face, wavy hair, and wearing lipstick.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\155166.jpg:A young woman with heavy makeup, no beard, an oval face, straight hair, and wearing lipstick.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\152081.jpg:A person with arched eyebrows, bags under eyes, big lips, blond hair, heavy makeup, high cheekbones, mouth slightly open, narrow eyes, no beard, smiling, wavy hair, wearing earrings, and wearing lipstick.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\116280.jpg:A young man with bangs, chubby cheeks, a double chin, high cheekbones, an oval face, a slightly open mouth, no beard, a smiling expression, and wavy hair.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\054682.jpg:A person with bangs, a big nose, blond hair, wearing eyeglasses, and no beard.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\021546.jpg:A young person with black hair, high cheekbones, an oval face, and no beard, and with bags under their eyes.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\075663.jpg:A young attractive person with big lips, black hair, high cheekbones, a slightly open mouth, no beard, a smiling expression, wavy hair, and wearing lipstick.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\106162.jpg:A young man with a big nose, black hair, bushy eyebrows, high cheekbones, an oval face, a slightly open mouth, no beard, a smiling expression, and wavy hair.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\183231.jpg:A person with bangs, a big nose, high cheekbones, a slightly open mouth, narrow eyes, no beard, an oval face, smiling, and wavy hair.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\024652.jpg:A young attractive woman with blond hair and arched eyebrows is smiling and wearing heavy makeup. She has high cheekbones, an oval face, and a pointy nose. Her mouth is slightly open and she has wavy hair. She is not wearing a beard and is wearing earrings and lipstick.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\201763.jpg:A young person wearing a hat with a slightly open mouth and no beard.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\180707.jpg:A young woman with heavy makeup and high cheekbones, without a beard.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\091084.jpg:A young woman with arched eyebrows, attractive features, heavy makeup, high cheekbones, slightly open mouth, no beard, oval face, pointy nose, smiling, wavy hair, wearing earrings, wearing lipstick.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\141375.jpg:A young woman with arched eyebrows, attractive face, heavy makeup, high cheekbones, slightly open mouth, no beard, oval face, pointy nose, rosy cheeks, smiling, wavy hair, wearing lipstick.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\154204.jpg:A man with bags under his eyes, big lips, a big nose, black hair, a double chin, high cheekbones, no beard, and a smiling face.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\023503.jpg:An attractive young woman with heavy makeup and a slightly open mouth, no beard, a pointy nose, and wavy hair.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\159986.jpg:An attractive young woman with a big nose, heavy makeup, high cheekbones, a slightly open mouth, no beard, rosy cheeks, a smiling expression, wavy hair, wearing earrings, wearing a hat, wearing lipstick.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\025891.jpg:A young, attractive man with a 5 o'clock shadow, a slightly open mouth, a pointy nose, and a smiling expression.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\130316.jpg:A young man with bangs, big lips, a mustache, wavy hair.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\148680.jpg:A young attractive person with blond hair, high cheekbones, an oval face, and a slight smile, and is not wearing a beard.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\009639.jpg:A young woman with arched eyebrows, heavy makeup, high cheekbones, no beard, a pointy nose, a smiling expression, straight hair, wearing earrings, and wearing lipstick.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\092778.jpg:An attractive blond woman with arched eyebrows, heavy makeup, high cheekbones, slightly open mouth, narrow eyes, pale skin, and wearing earrings and lipstick is smiling.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\033543.jpg:A young woman with arched eyebrows, attractive, wearing bangs and brown wavy hair, heavy makeup, high cheekbones, slightly open mouth, no beard, oval face, smiling, wearing earrings, lipstick, necklace.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\106304.jpg:A chubby man with bags under his eyes, a big nose, a double chin, high cheekbones, a slightly open mouth, no beard, and a smiling face with wavy hair.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\169543.jpg:A young man with an attractive and oval face, high cheekbones, a slightly open mouth, a pointy nose, a receding hairline, and a smiling expression. He does not have a beard.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\003642.jpg:An attractive young woman with blond hair, big lips, heavy makeup, and wearing lipstick. She has arched eyebrows, an oval face, a pointy nose, and a receding hairline. She is smiling and has straight hair. She does not have a beard.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\165419.jpg:A young woman with arched eyebrows, bags under her eyes, big lips, a big nose, a chubby face, a double chin, high cheekbones, a slightly open mouth, no beard, a receding hairline, a smiling expression, wearing earrings, wearing lipstick, wearing a necklace.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\144435.jpg:A young woman with blond hair, high cheekbones, an oval face, and a slight smile, wearing lipstick and bangs.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\173351.jpg:A young woman with arched eyebrows, attractive, big lips, black hair, heavy makeup, high cheekbones, no beard, oval face, pointy nose, rosy cheeks, smiling, straight hair, wearing earrings, wearing lipstick.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\076896.jpg:A smiling man with bags under his eyes, a big nose, bushy eyebrows, a receding hairline, and wearing a necktie.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\097819.jpg:a person with bags under eyes, bangs, big nose, double chin, gray hair, high cheekbones, mouth slightly open, no beard, rosy cheeks, smiling, wavy hair, and wearing earrings.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\145595.jpg:a young man with 5 o'clock shadow and brown hair
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\100066.jpg:A smiling man with bags under his eyes, a big nose, high cheekbones, a slightly open mouth, and a pointy nose and no beard.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\191089.jpg:A young woman with arched eyebrows, attractive features, black hair, bushy eyebrows, heavy makeup, high cheekbones, with her mouth slightly open, no beard, an oval face, rosy cheeks, smiling, with wavy hair, wearing earrings, wearing lipstick, wearing a necklace.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\188544.jpg:A young male with 5 o'clock shadow, attractive features, big lips, big nose, slightly open mouth, narrow eyes, pointy nose, and a smiling expression.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\183924.jpg:A male with no beard and wavy hair.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\164087.jpg:A bald, blurry, chubby man with bags under his eyes and a double chin, who is male and has no beard.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\097485.jpg:A young woman with arched eyebrows, attractive, black hair, heavy makeup, wearing lipstick and no beard.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\033002.jpg:An attractive young woman with brown hair, bushy eyebrows, heavy makeup, high cheekbones, a slightly open mouth, no beard, an oval face, a pointy nose, a smiling expression, wavy hair, wearing lipstick, wearing a necklace.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\174699.jpg:a male without beard
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\021366.jpg:A young and attractive woman with arched eyebrows, brown hair, heavy makeup, a pointy nose, a receding hairline, wavy hair, wearing lipstick, and no beard.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\086881.jpg:A young person with arched eyebrows, slightly open mouth, no beard, straight hair, and wearing lipstick.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\164219.jpg:a male with bags under his eyes and brown hair, without a beard
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\057924.jpg:An attractive young man with bags under his eyes, brown hair, no beard, an oval face, and wavy hair.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\159427.jpg:An attractive young woman with bangs, big lips, heavy makeup, slightly open mouth, narrow eyes, no beard, wavy hair, wearing lipstick.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\118059.jpg:A young woman with arched eyebrows, attractive face, heavy makeup, high cheekbones, slightly open mouth, oval face, pointy nose, smiling, wavy hair, wearing earrings, wearing lipstick.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\173128.jpg:A young person with bangs, blurry image, slightly open mouth, and no beard.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\116068.jpg:A young woman with arched eyebrows, attractive features, bangs, big lips, bushy eyebrows, heavy makeup, no beard, a pointy nose, wearing lipstick, wearing a necklace.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\167990.jpg:An attractive person with bangs, heavy makeup, no beard, pointy nose, straight hair, and wearing lipstick.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\197456.jpg:A young woman with attractive features, black hair, heavy makeup, high cheekbones, a slightly open mouth, no beard, an oval face, a pointy nose, a smiling expression, wavy hair, and wearing lipstick.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\104493.jpg:An attractive young woman with blond hair, heavy makeup, high cheekbones, an oval face, a pointy nose, a smile, wavy hair, and wearing lipstick.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\114436.jpg:An attractive blond-haired person with heavy makeup, high cheekbones, a slightly open mouth, no beard, an oval face, a pointy nose, rosy cheeks, and a smiling face, wearing lipstick.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\007059.jpg:A young male with bags under his eyes, big lips, a big nose, black hair, bushy eyebrows, high cheekbones, an oval face, a slightly open mouth, and a smiling expression.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\020680.jpg:A young man with black hair, bushy eyebrows, a goatee, sideburns, and straight hair.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\125040.jpg:A young, attractive man with brown hair, a goatee, high cheekbones, slightly open mouth, narrow eyes, sideburns, and a smiling expression.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\119808.jpg:A young woman with arched eyebrows, attractive features, heavy makeup, high cheekbones, slightly open mouth, no beard, pointy nose, wavy hair, wearing lipstick.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\163443.jpg:An attractive young woman with bangs, heavy makeup, high cheekbones, a slightly open mouth, no beard, an oval face, a smiling expression, and wearing lipstick.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\176374.jpg:A young, attractive man with brown hair, high cheekbones, an oval face, and a slight smile, his mouth slightly open. He has no beard and straight hair.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\120452.jpg:a young male with 5 o'clock shadow, bags under eyes, big lips, black hair, bushy eyebrows, a goatee, a pointy nose, sideburns.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\006354.jpg:A young person with arched eyebrows, black hair, heavy makeup, no beard, receding hairline, wavy hair, wearing earrings, wearing lipstick.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\112300.jpg:A young male with black hair, slightly open mouth, and wearing a necktie, without a beard.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\124067.jpg:A young person with attractive features, big lips, a slightly open mouth, no beard, a pointy nose, and wearing a necklace.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\082301.jpg:An attractive woman with arched eyebrows, blond hair, and bangs wearing heavy makeup, earrings, and lipstick, without a beard.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\116097.jpg:A young attractive male with a 5 o'clock shadow, bags under his eyes, big lips, bushy eyebrows, and narrow eyes.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\168816.jpg:A young person with bags under their eyes, a big nose, heavy makeup, high cheekbones, no beard, wearing earrings, wearing lipstick, wearing a necklace.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\004946.jpg:An attractive young woman with brown hair, high cheekbones, and pale skin is wearing heavy makeup and smiling with her mouth slightly open. She has no beard and has an oval face with wavy hair. She is also wearing lipstick.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\025097.jpg:An attractive young woman with arched eyebrows, big lips, brown hair, heavy makeup, high cheekbones, slightly open mouth, narrow eyes, no beard, smiling, wavy hair, wearing earrings, wearing lipstick.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\140111.jpg:a man with 5 o'clock shadow, goatee, and mustache
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\120449.jpg:A young man with arched eyebrows and bushy eyebrows, black hair, no beard, wearing a necktie.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\160464.jpg:A male with eyeglasses, slightly open mouth, no beard, and a receding hairline.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\000209.jpg:A chubby, bald man with bags under his eyes, a big nose, a double chin, gray hair, high cheekbones, a slightly open mouth, a mustache, a pointy nose, a receding hairline, and wearing a necktie, is smiling.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\123354.jpg:A young woman with arched eyebrows, attractive appearance, bags under her eyes, bangs, big lips, brown hair, heavy makeup, high cheekbones, slightly open mouth, narrow eyes, no beard, oval face, smiling, wavy hair, wearing earrings, wearing lipstick, wearing a necklace.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\195700.jpg:A young, attractive man without a beard.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\198153.jpg:A young woman with big lips, black hair, high cheekbones, and a slightly open mouth, smiling and wearing lipstick.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\068564.jpg:An attractive young woman with heavy makeup and high cheekbones, smiling with her mouth slightly open. She is wearing lipstick and has a pointy nose.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\026290.jpg:A young man without a beard.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\131336.jpg:A young woman with attractive features, brown hair, heavy makeup, high cheekbones, no beard, oval face, a smiling expression, wavy hair, wearing lipstick.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\020353.jpg:A young, attractive man with bags under his eyes, brown hair, pale skin, and no beard.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\165484.jpg:A woman with arched eyebrows, attractive, bags under eyes, big lips, big nose, brown hair, heavy makeup, high cheekbones, mouth slightly open, narrow eyes, no beard, receding hairline, smiling, wearing earrings, and wearing lipstick.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\099494.jpg:A young person with bags under their eyes, big lips, blond hair, no beard, and wearing earrings.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\016128.jpg:A young male with a 5 o'clock shadow, big nose, mustache, narrow eyes, sideburns, wearing a hat.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\074496.jpg:A young male with arched eyebrows, a bald head, big lips, a big nose, a goatee, an oval face, and a receding hairline.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\085932.jpg:A young, attractive man with high cheekbones, sideburns, and wavy hair.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\005990.jpg:A young woman with arched eyebrows, attractive features, big lips, black hair, heavy makeup, high cheekbones, a slightly open mouth, no beard, smiling, wearing earrings, and lipstick.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\200607.jpg:A blond-haired man with a slightly open mouth and a receding hairline, without a beard.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\050700.jpg:A young woman with attractive features and a big smile, wearing heavy makeup and lipstick, with high cheekbones and a pointy nose, and black wavy hair. She has an oval face, a slightly open mouth, and is not wearing a beard. She is also wearing a necklace.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\153865.jpg:A smiling man with blond hair, brown hair, eyeglasses, high cheekbones, and his mouth slightly open, and he does not have a beard.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\157071.jpg:A young woman with bangs, big lips, high cheekbones, a slightly open mouth, no beard, smiling, straight hair, and wearing lipstick.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\177492.jpg:A young, attractive male with arched eyebrows, bags under his eyes, black hair, bushy eyebrows, an oval face, and straight hair, and no beard.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\065590.jpg:A young attractive person with heavy makeup, slightly open mouth, no beard, pale skin, and wearing lipstick.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\182349.jpg:An attractive young woman with bangs, heavy makeup, high cheekbones, no beard, oval face, pointy nose, rosy cheeks, and a smiling face wearing lipstick and a necklace.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\143846.jpg:A young, attractive woman with arched eyebrows, big lips, brown hair, heavy makeup, a slightly open mouth, an oval face, a pointy nose, wavy hair, and wearing lipstick.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\040278.jpg:A young woman with brown hair, high cheekbones, heavy makeup, and a slight smile, wearing lipstick and with her mouth slightly open, no beard and blurry image.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\046469.jpg:A blurry, narrow-eyed, pale-skinned man wearing a necklace and without a beard.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\040066.jpg:A young woman with arched eyebrows, attractive blond hair, heavy makeup, high cheekbones, a slightly open mouth, no beard, a pointy nose, rosy cheeks, a smiling expression, and wearing lipstick.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\166117.jpg:A man with a big nose, black hair, eyeglasses, high cheekbones, no beard, oval face, and straight hair.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\083807.jpg:A young woman with brown hair, high cheekbones, and a big nose is smiling with her mouth slightly open. She has bags under her eyes and bangs, and she is not wearing a beard. She is also wearing lipstick and a necklace.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\034757.jpg:A man with bags under his eyes, a big nose, gray hair, high cheekbones, no beard, a receding hairline, and wearing a necktie.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\098475.jpg:A young woman with arched eyebrows, big lips, a big nose, chubby cheeks, heavy makeup, high cheekbones, no beard, pale skin, a smiling expression, wavy hair, wearing earrings, wearing lipstick, wearing a necklace.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\145821.jpg:An attractive young woman with arched eyebrows, heavy makeup, slightly open mouth, no beard, pointy nose, wavy hair, wearing lipstick.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\143820.jpg:A young woman with arched eyebrows, bushy eyebrows, heavy makeup, slightly open mouth, narrow eyes, no beard, wearing lipstick, wearing a necklace.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\152684.jpg:A smiling person with high cheekbones, an oval face, and wearing earrings.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\197494.jpg:A young person wearing eyeglasses, a hat, and without a beard.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\039687.jpg:a bald man with bags under his eyes, a big nose, a chubby face, a double chin, and gray hair, who is also male and does not have a beard.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\123483.jpg:A young man with high cheekbones and an oval face, without a beard.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\102227.jpg:A young, attractive man with high cheekbones, bags under his eyes, a slightly open mouth, no beard, a pointy nose, and a smiling expression.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\130700.jpg:A young man with an oval face, big nose, bushy eyebrows, high cheekbones, a slightly open mouth, and no beard is smiling.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\089818.jpg:A person with arched eyebrows, attractive, big lips, high cheekbones, narrow eyes, no beard, pale skin, pointy nose, wavy hair, and wearing lipstick.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\009882.jpg:A young attractive woman with brown hair, heavy makeup, a slightly open mouth, no beard, a pointy nose, rosy cheeks, wavy hair, and wearing lipstick.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\106405.jpg:A young, attractive man with a 5 o'clock shadow, big nose, brown hair, high cheekbones, slightly open mouth, and a smiling expression. He has wavy hair.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\122477.jpg:A young woman with attractive features, brown hair, heavy makeup, high cheekbones, no beard, oval face, pointy nose, rosy cheeks, a smiling expression, wavy hair, wearing lipstick.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\006661.jpg:An attractive woman with bangs, a big nose, heavy makeup, high cheekbones, a slightly open mouth, no beard, rosy cheeks, and a smiling expression, wearing straight hair, lipstick, and a necklace.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\021672.jpg:A young woman with blond hair and bangs, wearing lipstick and heavy makeup, smiling with her mouth slightly open, has an attractive oval face and straight hair. She does not have a beard.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\049315.jpg:A young attractive woman with arched eyebrows, heavy makeup, slightly open mouth, no beard, pointy nose, receding hairline, wearing lipstick.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\180549.jpg:A young, attractive man with black hair and no beard, and straight hair.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\070126.jpg:An attractive young woman with big lips, blond hair, heavy makeup, no beard, a pointy nose, wavy hair, wearing lipstick, wearing a necklace.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\149838.jpg:A young man with 5 o'clock shadow, a big nose, high cheekbones, a slightly open mouth, no beard, a pointy nose, a smile, and straight hair.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\005525.jpg:An attractive young woman with arched eyebrows, big lips, bushy eyebrows, heavy makeup, high cheekbones, slightly open mouth, no beard, oval face, pointy nose, rosy cheeks, smiling, wavy hair, wearing earrings, wearing lipstick.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\157462.jpg:A young woman with arched eyebrows, bangs, heavy makeup, narrow eyes, no beard, and wearing lipstick.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\063099.jpg:An attractive woman with blond hair, heavy makeup, high cheekbones, a slightly open mouth, no beard, a pointy nose, a smiling expression, wavy hair, and wearing lipstick.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\030771.jpg:A young woman with attractive features, black hair, heavy makeup, high cheekbones, a slightly open mouth, no beard, a pointy nose, a smiling expression, wavy hair, and wearing lipstick.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\066076.jpg:An attractive young woman with bags under her eyes, bushy eyebrows, heavy makeup, high cheekbones, slightly open mouth, narrow eyes, no beard, wavy hair, wearing earrings, wearing lipstick.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\081193.jpg:An attractive young woman with blond hair, bangs, heavy makeup, and wavy hair. She has an oval face and is wearing earrings and lipstick. She does not have a beard.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\121620.jpg:A young woman with arched eyebrows, bags under her eyes, big lips, a big nose, black hair, chubby cheeks, high cheekbones, narrow eyes, no beard, a receding hairline, wearing earrings and lipstick.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\014872.jpg:A person with big lips, brown hair, chubby face, double chin, wearing eyeglasses and heavy makeup, with high cheekbones, slightly open mouth, no beard, smiling, and wavy hair, and wearing lipstick.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\117224.jpg:A young woman with arched eyebrows, attractive smile, big lips, heavy makeup, high cheekbones, slightly open mouth, no beard, pointy nose, wavy hair, wearing lipstick.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\181068.jpg:A young, attractive man with a 5 o'clock shadow, big nose, bushy eyebrows, goatee, slightly open mouth, and pointy nose.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\135747.jpg:A young woman with arched eyebrows, blonde hair, heavy makeup, slightly open mouth, no beard, wavy hair, wearing earrings, wearing lipstick, wearing a necklace.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\008872.jpg:A young attractive woman with high cheekbones, smiling, wearing lipstick, and having wavy hair.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\155898.jpg:A young man with high cheekbones, a slightly open mouth, and an oval face is smiling without a beard.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\154406.jpg:A young woman with attractive features, arched eyebrows, blond hair, heavy makeup, slightly open mouth, no beard, pointy nose, smiling, wearing earrings and lipstick.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\123702.jpg:A person with bangs, wearing eyeglasses, slightly open mouth, no beard, smiling, straight hair, wearing lipstick, and wearing a necklace.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\064680.jpg:A young attractive person with arched eyebrows, an oval face, a receding hairline, and wearing lipstick.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\023373.jpg:A smiling man with an oval face, high cheekbones, a big nose, and a pointed nose, wearing a hat and a necktie, and without a beard.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\151584.jpg:An attractive woman with bangs, a big nose, brown hair, heavy makeup, high cheekbones, a slightly open mouth, no beard, a pointy nose, rosy cheeks, smiling, wavy hair, and wearing lipstick.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\011656.jpg:An attractive young woman with heavy makeup, high cheekbones, a slightly open mouth, no beard, an oval face, rosy cheeks, a smiling expression, and wearing lipstick.
+F:\DLdataset\CelebA\Img\img_celeba\img_celeba\037579.jpg:An attractive young woman with bags under her eyes, big lips, a big nose, brown hair, high cheekbones, a slightly open mouth, no beard, a pointy nose, a smile, wavy hair, wearing earrings and lipstick.
